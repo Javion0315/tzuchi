@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="farewell.html"
+
+>
+  <image imageURL="images/farewell (1).JPG"
+	thumbURL="thumbs/farewell (1).JPG"
+	linkURL="images/farewell (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (2).JPG"
+	thumbURL="thumbs/farewell (2).JPG"
+	linkURL="images/farewell (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (3).JPG"
+	thumbURL="thumbs/farewell (3).JPG"
+	linkURL="images/farewell (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (4).JPG"
+	thumbURL="thumbs/farewell (4).JPG"
+	linkURL="images/farewell (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (5).JPG"
+	thumbURL="thumbs/farewell (5).JPG"
+	linkURL="images/farewell (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (6).JPG"
+	thumbURL="thumbs/farewell (6).JPG"
+	linkURL="images/farewell (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (7).JPG"
+	thumbURL="thumbs/farewell (7).JPG"
+	linkURL="images/farewell (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (8).JPG"
+	thumbURL="thumbs/farewell (8).JPG"
+	linkURL="images/farewell (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (9).JPG"
+	thumbURL="thumbs/farewell (9).JPG"
+	linkURL="images/farewell (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (10).JPG"
+	thumbURL="thumbs/farewell (10).JPG"
+	linkURL="images/farewell (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (11).JPG"
+	thumbURL="thumbs/farewell (11).JPG"
+	linkURL="images/farewell (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (12).JPG"
+	thumbURL="thumbs/farewell (12).JPG"
+	linkURL="images/farewell (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (13).JPG"
+	thumbURL="thumbs/farewell (13).JPG"
+	linkURL="images/farewell (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (14).JPG"
+	thumbURL="thumbs/farewell (14).JPG"
+	linkURL="images/farewell (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farewell (15).JPG"
+	thumbURL="thumbs/farewell (15).JPG"
+	linkURL="images/farewell (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[farewell (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

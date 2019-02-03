@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/奇蹟醫生.JPG"
+	thumbURL="thumbs/奇蹟醫生.JPG"
+	linkURL="images/奇蹟醫生.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生1.JPG"
+	thumbURL="thumbs/奇蹟醫生1.JPG"
+	linkURL="images/奇蹟醫生1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生2.JPG"
+	thumbURL="thumbs/奇蹟醫生2.JPG"
+	linkURL="images/奇蹟醫生2.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生3.JPG"
+	thumbURL="thumbs/奇蹟醫生3.JPG"
+	linkURL="images/奇蹟醫生3.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生4.JPG"
+	thumbURL="thumbs/奇蹟醫生4.JPG"
+	linkURL="images/奇蹟醫生4.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生5.JPG"
+	thumbURL="thumbs/奇蹟醫生5.JPG"
+	linkURL="images/奇蹟醫生5.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生6.JPG"
+	thumbURL="thumbs/奇蹟醫生6.JPG"
+	linkURL="images/奇蹟醫生6.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生7.JPG"
+	thumbURL="thumbs/奇蹟醫生7.JPG"
+	linkURL="images/奇蹟醫生7.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生8.JPG"
+	thumbURL="thumbs/奇蹟醫生8.JPG"
+	linkURL="images/奇蹟醫生8.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生9.JPG"
+	thumbURL="thumbs/奇蹟醫生9.JPG"
+	linkURL="images/奇蹟醫生9.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生10.JPG"
+	thumbURL="thumbs/奇蹟醫生10.JPG"
+	linkURL="images/奇蹟醫生10.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/奇蹟醫生11.JPG"
+	thumbURL="thumbs/奇蹟醫生11.JPG"
+	linkURL="images/奇蹟醫生11.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[奇蹟醫生11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

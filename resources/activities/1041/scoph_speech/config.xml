@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+  showLargeThumbs="false"	indexPageName="SCOPHSPEECH.html"
+
+>
+  <image imageURL="images/SCOPH (1).JPG"
+	thumbURL="thumbs/SCOPH (1).JPG"
+	linkURL="images/SCOPH (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (2).JPG"
+	thumbURL="thumbs/SCOPH (2).JPG"
+	linkURL="images/SCOPH (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (3).JPG"
+	thumbURL="thumbs/SCOPH (3).JPG"
+	linkURL="images/SCOPH (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (4).JPG"
+	thumbURL="thumbs/SCOPH (4).JPG"
+	linkURL="images/SCOPH (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (5).JPG"
+	thumbURL="thumbs/SCOPH (5).JPG"
+	linkURL="images/SCOPH (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (6).JPG"
+	thumbURL="thumbs/SCOPH (6).JPG"
+	linkURL="images/SCOPH (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (7).JPG"
+	thumbURL="thumbs/SCOPH (7).JPG"
+	linkURL="images/SCOPH (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (8).JPG"
+	thumbURL="thumbs/SCOPH (8).JPG"
+	linkURL="images/SCOPH (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (9).JPG"
+	thumbURL="thumbs/SCOPH (9).JPG"
+	linkURL="images/SCOPH (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (10).JPG"
+	thumbURL="thumbs/SCOPH (10).JPG"
+	linkURL="images/SCOPH (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (11).JPG"
+	thumbURL="thumbs/SCOPH (11).JPG"
+	linkURL="images/SCOPH (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (12).JPG"
+	thumbURL="thumbs/SCOPH (12).JPG"
+	linkURL="images/SCOPH (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (13).JPG"
+	thumbURL="thumbs/SCOPH (13).JPG"
+	linkURL="images/SCOPH (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (14).JPG"
+	thumbURL="thumbs/SCOPH (14).JPG"
+	linkURL="images/SCOPH (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (15).JPG"
+	thumbURL="thumbs/SCOPH (15).JPG"
+	linkURL="images/SCOPH (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (16).JPG"
+	thumbURL="thumbs/SCOPH (16).JPG"
+	linkURL="images/SCOPH (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (17).JPG"
+	thumbURL="thumbs/SCOPH (17).JPG"
+	linkURL="images/SCOPH (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (18).JPG"
+	thumbURL="thumbs/SCOPH (18).JPG"
+	linkURL="images/SCOPH (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (19).JPG"
+	thumbURL="thumbs/SCOPH (19).JPG"
+	linkURL="images/SCOPH (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (20).JPG"
+	thumbURL="thumbs/SCOPH (20).JPG"
+	linkURL="images/SCOPH (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (21).JPG"
+	thumbURL="thumbs/SCOPH (21).JPG"
+	linkURL="images/SCOPH (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (22).JPG"
+	thumbURL="thumbs/SCOPH (22).JPG"
+	linkURL="images/SCOPH (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SCOPH (23).JPG"
+	thumbURL="thumbs/SCOPH (23).JPG"
+	linkURL="images/SCOPH (23).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[SCOPH (23)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

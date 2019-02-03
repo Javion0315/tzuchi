@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="ball.html"
+
+>
+  <image imageURL="images/ball (1).JPG"
+	thumbURL="thumbs/ball (1).JPG"
+	linkURL="images/ball (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (2).JPG"
+	thumbURL="thumbs/ball (2).JPG"
+	linkURL="images/ball (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (3).JPG"
+	thumbURL="thumbs/ball (3).JPG"
+	linkURL="images/ball (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (4).JPG"
+	thumbURL="thumbs/ball (4).JPG"
+	linkURL="images/ball (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (5).JPG"
+	thumbURL="thumbs/ball (5).JPG"
+	linkURL="images/ball (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (6).JPG"
+	thumbURL="thumbs/ball (6).JPG"
+	linkURL="images/ball (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (7).JPG"
+	thumbURL="thumbs/ball (7).JPG"
+	linkURL="images/ball (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ball (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

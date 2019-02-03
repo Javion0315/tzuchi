@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="ball.html"
+
+>
+  <image imageURL="images/ball (1).jpg"
+	thumbURL="thumbs/ball (1).jpg"
+	linkURL="images/ball (1).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (2).jpg"
+	thumbURL="thumbs/ball (2).jpg"
+	linkURL="images/ball (2).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (3).jpg"
+	thumbURL="thumbs/ball (3).jpg"
+	linkURL="images/ball (3).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (4).jpg"
+	thumbURL="thumbs/ball (4).jpg"
+	linkURL="images/ball (4).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (5).jpg"
+	thumbURL="thumbs/ball (5).jpg"
+	linkURL="images/ball (5).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (6).jpg"
+	thumbURL="thumbs/ball (6).jpg"
+	linkURL="images/ball (6).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (7).jpg"
+	thumbURL="thumbs/ball (7).jpg"
+	linkURL="images/ball (7).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (8).jpg"
+	thumbURL="thumbs/ball (8).jpg"
+	linkURL="images/ball (8).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (9).jpg"
+	thumbURL="thumbs/ball (9).jpg"
+	linkURL="images/ball (9).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (10).jpg"
+	thumbURL="thumbs/ball (10).jpg"
+	linkURL="images/ball (10).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (11).jpg"
+	thumbURL="thumbs/ball (11).jpg"
+	linkURL="images/ball (11).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (12).jpg"
+	thumbURL="thumbs/ball (12).jpg"
+	linkURL="images/ball (12).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (13).jpg"
+	thumbURL="thumbs/ball (13).jpg"
+	linkURL="images/ball (13).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (14).jpg"
+	thumbURL="thumbs/ball (14).jpg"
+	linkURL="images/ball (14).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (15).jpg"
+	thumbURL="thumbs/ball (15).jpg"
+	linkURL="images/ball (15).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (16).jpg"
+	thumbURL="thumbs/ball (16).jpg"
+	linkURL="images/ball (16).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (17).jpg"
+	thumbURL="thumbs/ball (17).jpg"
+	linkURL="images/ball (17).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (18).jpg"
+	thumbURL="thumbs/ball (18).jpg"
+	linkURL="images/ball (18).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (19).jpg"
+	thumbURL="thumbs/ball (19).jpg"
+	linkURL="images/ball (19).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (20).jpg"
+	thumbURL="thumbs/ball (20).jpg"
+	linkURL="images/ball (20).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ball (21).jpg"
+	thumbURL="thumbs/ball (21).jpg"
+	linkURL="images/ball (21).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[ball (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

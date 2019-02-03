@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/誰來晚餐？.JPG"
+	thumbURL="thumbs/誰來晚餐？.JPG"
+	linkURL="images/誰來晚餐？.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？1.JPG"
+	thumbURL="thumbs/誰來晚餐？1.JPG"
+	linkURL="images/誰來晚餐？1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？2.JPG"
+	thumbURL="thumbs/誰來晚餐？2.JPG"
+	linkURL="images/誰來晚餐？2.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？3.JPG"
+	thumbURL="thumbs/誰來晚餐？3.JPG"
+	linkURL="images/誰來晚餐？3.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？4.JPG"
+	thumbURL="thumbs/誰來晚餐？4.JPG"
+	linkURL="images/誰來晚餐？4.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？5.JPG"
+	thumbURL="thumbs/誰來晚餐？5.JPG"
+	linkURL="images/誰來晚餐？5.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/誰來晚餐？6.JPG"
+	thumbURL="thumbs/誰來晚餐？6.JPG"
+	linkURL="images/誰來晚餐？6.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[誰來晚餐？6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

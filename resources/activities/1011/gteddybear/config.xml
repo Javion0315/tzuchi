@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="gteddybear.html"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+
+>
+  <image imageURL="images/1011_綠色泰迪熊醫院1.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院1.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院2.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院2.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0001.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0001.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0002.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0002.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0003.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0003.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0004.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0004.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0005.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0005.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0006.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0006.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0007.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0007.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0008.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0008.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0009.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0009.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0010.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0010.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0011.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0011.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0012.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0012.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0013.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0013.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0014.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0014.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0015.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0015.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0016.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0016.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0017.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0017.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0018.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0018.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0019.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0019.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0020.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0020.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0021.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0021.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0022.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0022.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0023.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0023.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0024.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0024.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0024.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0025.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0025.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0025.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_綠色泰迪熊醫院_0026.jpg"
+	thumbURL="thumbs/1011_綠色泰迪熊醫院_0026.jpg"
+	linkURL="images/1011_綠色泰迪熊醫院_0026.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_綠色泰迪熊醫院_0026]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

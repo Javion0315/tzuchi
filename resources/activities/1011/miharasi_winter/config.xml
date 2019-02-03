@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="miharasi_winter.html"
+
+>
+  <image imageURL="images/見晴醫療服務隊期中出隊.JPG"
+	thumbURL="thumbs/見晴醫療服務隊期中出隊.JPG"
+	linkURL="images/見晴醫療服務隊期中出隊.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[見晴醫療服務隊期中出隊]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/見晴醫療服務隊期中出隊1.JPG"
+	thumbURL="thumbs/見晴醫療服務隊期中出隊1.JPG"
+	linkURL="images/見晴醫療服務隊期中出隊1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[見晴醫療服務隊期中出隊]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0001.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0001.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0002.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0002.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0003.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0003.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0004.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0004.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0005.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0005.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0006.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0006.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0007.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0007.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0007.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0008.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0008.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0009.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0009.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0010.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0010.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0011.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0011.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0012.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0012.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0013.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0013.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0014.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0014.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0014.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0015.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0015.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0016.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0016.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0017.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0017.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0017.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0018.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0018.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0019.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0019.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0020.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0020.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0021.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0021.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0022.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0022.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0023.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0023.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0024.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0024.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0024.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0025.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0025.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0025.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0026.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0026.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0026.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0026]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0027.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0027.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0027.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0028.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0028.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0028.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0028]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0029.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0029.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0029.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0030.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0030.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0030.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0031.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0031.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0031.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0032.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0032.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0032.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0033.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0033.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0033.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0034.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0034.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0034.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0035.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0035.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0035.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0036.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0036.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0036.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0037.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0037.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0037.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0037]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0038.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0038.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0038.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0039.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0039.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0039.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0040.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0040.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0040.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0041.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0041.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0041.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0042.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0042.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0042.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0043.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0043.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0043.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0044.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0044.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0044.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0044]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0045.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0045.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0045.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0045]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0046.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0046.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0046.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0046]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0047.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0047.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0047.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0047]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0048.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0048.jpg"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0048.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0048]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0049.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0049.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0049.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0049]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊寒假出隊_0050.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊寒假出隊_0050.JPG"
+	linkURL="images/1011_見晴醫療服務隊寒假出隊_0050.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊寒假出隊_0050]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

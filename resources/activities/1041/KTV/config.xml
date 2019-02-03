@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="KTV.html"
+
+>
+  <image imageURL="images/KTV (1).JPG"
+	thumbURL="thumbs/KTV (1).JPG"
+	linkURL="images/KTV (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (2).JPG"
+	thumbURL="thumbs/KTV (2).JPG"
+	linkURL="images/KTV (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (3).JPG"
+	thumbURL="thumbs/KTV (3).JPG"
+	linkURL="images/KTV (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (4).JPG"
+	thumbURL="thumbs/KTV (4).JPG"
+	linkURL="images/KTV (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (5).JPG"
+	thumbURL="thumbs/KTV (5).JPG"
+	linkURL="images/KTV (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (6).JPG"
+	thumbURL="thumbs/KTV (6).JPG"
+	linkURL="images/KTV (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (7).JPG"
+	thumbURL="thumbs/KTV (7).JPG"
+	linkURL="images/KTV (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (8).JPG"
+	thumbURL="thumbs/KTV (8).JPG"
+	linkURL="images/KTV (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (9).JPG"
+	thumbURL="thumbs/KTV (9).JPG"
+	linkURL="images/KTV (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (10).JPG"
+	thumbURL="thumbs/KTV (10).JPG"
+	linkURL="images/KTV (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (11).JPG"
+	thumbURL="thumbs/KTV (11).JPG"
+	linkURL="images/KTV (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (12).JPG"
+	thumbURL="thumbs/KTV (12).JPG"
+	linkURL="images/KTV (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (13).JPG"
+	thumbURL="thumbs/KTV (13).JPG"
+	linkURL="images/KTV (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (14).JPG"
+	thumbURL="thumbs/KTV (14).JPG"
+	linkURL="images/KTV (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (15).JPG"
+	thumbURL="thumbs/KTV (15).JPG"
+	linkURL="images/KTV (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (16).JPG"
+	thumbURL="thumbs/KTV (16).JPG"
+	linkURL="images/KTV (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/KTV (17).JPG"
+	thumbURL="thumbs/KTV (17).JPG"
+	linkURL="images/KTV (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[KTV (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

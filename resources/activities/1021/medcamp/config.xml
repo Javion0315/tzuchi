@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="medcamp.html"
+
+>
+  <image imageURL="images/102級迎新宿營.JPG"
+	thumbURL="thumbs/102級迎新宿營.JPG"
+	linkURL="images/102級迎新宿營.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_活動簡介.JPG"
+	thumbURL="thumbs/102級迎新宿營_活動簡介.JPG"
+	linkURL="images/102級迎新宿營_活動簡介.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_活動簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0001.jpg"
+	thumbURL="thumbs/102級迎新宿營_0001.jpg"
+	linkURL="images/102級迎新宿營_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0002.JPG"
+	thumbURL="thumbs/102級迎新宿營_0002.JPG"
+	linkURL="images/102級迎新宿營_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0003.JPG"
+	thumbURL="thumbs/102級迎新宿營_0003.JPG"
+	linkURL="images/102級迎新宿營_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0004.JPG"
+	thumbURL="thumbs/102級迎新宿營_0004.JPG"
+	linkURL="images/102級迎新宿營_0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0005.JPG"
+	thumbURL="thumbs/102級迎新宿營_0005.JPG"
+	linkURL="images/102級迎新宿營_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0006.JPG"
+	thumbURL="thumbs/102級迎新宿營_0006.JPG"
+	linkURL="images/102級迎新宿營_0006.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0007.JPG"
+	thumbURL="thumbs/102級迎新宿營_0007.JPG"
+	linkURL="images/102級迎新宿營_0007.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0008.JPG"
+	thumbURL="thumbs/102級迎新宿營_0008.JPG"
+	linkURL="images/102級迎新宿營_0008.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0009.JPG"
+	thumbURL="thumbs/102級迎新宿營_0009.JPG"
+	linkURL="images/102級迎新宿營_0009.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0010.jpg"
+	thumbURL="thumbs/102級迎新宿營_0010.jpg"
+	linkURL="images/102級迎新宿營_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102級迎新宿營_0011.JPG"
+	thumbURL="thumbs/102級迎新宿營_0011.JPG"
+	linkURL="images/102級迎新宿營_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[102級迎新宿營_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

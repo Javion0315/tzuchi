@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="quidditch.html"
+
+>
+  <image imageURL="images/投影片1.JPG"
+	thumbURL="thumbs/投影片1.JPG"
+	linkURL="images/投影片1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片2.JPG"
+	thumbURL="thumbs/投影片2.JPG"
+	linkURL="images/投影片2.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片3.JPG"
+	thumbURL="thumbs/投影片3.JPG"
+	linkURL="images/投影片3.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片4.JPG"
+	thumbURL="thumbs/投影片4.JPG"
+	linkURL="images/投影片4.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片5.JPG"
+	thumbURL="thumbs/投影片5.JPG"
+	linkURL="images/投影片5.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片6.JPG"
+	thumbURL="thumbs/投影片6.JPG"
+	linkURL="images/投影片6.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片7.JPG"
+	thumbURL="thumbs/投影片7.JPG"
+	linkURL="images/投影片7.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片8.JPG"
+	thumbURL="thumbs/投影片8.JPG"
+	linkURL="images/投影片8.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片9.JPG"
+	thumbURL="thumbs/投影片9.JPG"
+	linkURL="images/投影片9.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片10.JPG"
+	thumbURL="thumbs/投影片10.JPG"
+	linkURL="images/投影片10.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[投影片10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片11.JPG"
+	thumbURL="thumbs/投影片11.JPG"
+	linkURL="images/投影片11.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片12.JPG"
+	thumbURL="thumbs/投影片12.JPG"
+	linkURL="images/投影片12.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片13.JPG"
+	thumbURL="thumbs/投影片13.JPG"
+	linkURL="images/投影片13.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片14.JPG"
+	thumbURL="thumbs/投影片14.JPG"
+	linkURL="images/投影片14.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片15.JPG"
+	thumbURL="thumbs/投影片15.JPG"
+	linkURL="images/投影片15.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片16.JPG"
+	thumbURL="thumbs/投影片16.JPG"
+	linkURL="images/投影片16.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片17.JPG"
+	thumbURL="thumbs/投影片17.JPG"
+	linkURL="images/投影片17.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片18.JPG"
+	thumbURL="thumbs/投影片18.JPG"
+	linkURL="images/投影片18.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片19.JPG"
+	thumbURL="thumbs/投影片19.JPG"
+	linkURL="images/投影片19.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片20.JPG"
+	thumbURL="thumbs/投影片20.JPG"
+	linkURL="images/投影片20.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片21.JPG"
+	thumbURL="thumbs/投影片21.JPG"
+	linkURL="images/投影片21.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片22.JPG"
+	thumbURL="thumbs/投影片22.JPG"
+	linkURL="images/投影片22.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片23.JPG"
+	thumbURL="thumbs/投影片23.JPG"
+	linkURL="images/投影片23.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片24.JPG"
+	thumbURL="thumbs/投影片24.JPG"
+	linkURL="images/投影片24.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[24]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片25.JPG"
+	thumbURL="thumbs/投影片25.JPG"
+	linkURL="images/投影片25.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片26.JPG"
+	thumbURL="thumbs/投影片26.JPG"
+	linkURL="images/投影片26.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[26]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片27.JPG"
+	thumbURL="thumbs/投影片27.JPG"
+	linkURL="images/投影片27.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[投影片27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片28.JPG"
+	thumbURL="thumbs/投影片28.JPG"
+	linkURL="images/投影片28.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[28]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片29.JPG"
+	thumbURL="thumbs/投影片29.JPG"
+	linkURL="images/投影片29.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[29]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片30.JPG"
+	thumbURL="thumbs/投影片30.JPG"
+	linkURL="images/投影片30.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片31.JPG"
+	thumbURL="thumbs/投影片31.JPG"
+	linkURL="images/投影片31.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片32.JPG"
+	thumbURL="thumbs/投影片32.JPG"
+	linkURL="images/投影片32.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片33.JPG"
+	thumbURL="thumbs/投影片33.JPG"
+	linkURL="images/投影片33.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[投影片33]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片34.JPG"
+	thumbURL="thumbs/投影片34.JPG"
+	linkURL="images/投影片34.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[34]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片35.JPG"
+	thumbURL="thumbs/投影片35.JPG"
+	linkURL="images/投影片35.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[35]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片36.JPG"
+	thumbURL="thumbs/投影片36.JPG"
+	linkURL="images/投影片36.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片37.JPG"
+	thumbURL="thumbs/投影片37.JPG"
+	linkURL="images/投影片37.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[37]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片38.JPG"
+	thumbURL="thumbs/投影片38.JPG"
+	linkURL="images/投影片38.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片39.JPG"
+	thumbURL="thumbs/投影片39.JPG"
+	linkURL="images/投影片39.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/投影片40.JPG"
+	thumbURL="thumbs/投影片40.JPG"
+	linkURL="images/投影片40.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

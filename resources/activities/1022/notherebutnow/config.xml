@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="notherebutnow.html"
+
+>
+  <image imageURL="images/1022_誰來晚餐.JPG"
+	thumbURL="thumbs/1022_誰來晚餐.JPG"
+	linkURL="images/1022_誰來晚餐.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0001.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0001.JPG"
+	linkURL="images/1022_誰來晚餐_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0002.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0002.JPG"
+	linkURL="images/1022_誰來晚餐_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0003.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0003.JPG"
+	linkURL="images/1022_誰來晚餐_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0004.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0004.JPG"
+	linkURL="images/1022_誰來晚餐_0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0005.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0005.JPG"
+	linkURL="images/1022_誰來晚餐_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_誰來晚餐_0006.JPG"
+	thumbURL="thumbs/1022_誰來晚餐_0006.JPG"
+	linkURL="images/1022_誰來晚餐_0006.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_誰來晚餐_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

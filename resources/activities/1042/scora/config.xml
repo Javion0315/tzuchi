@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="scora.html"
+
+>
+  <image imageURL="images/scora (1).JPG"
+	thumbURL="thumbs/scora (1).JPG"
+	linkURL="images/scora (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (2).JPG"
+	thumbURL="thumbs/scora (2).JPG"
+	linkURL="images/scora (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (3).JPG"
+	thumbURL="thumbs/scora (3).JPG"
+	linkURL="images/scora (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (4).JPG"
+	thumbURL="thumbs/scora (4).JPG"
+	linkURL="images/scora (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (5).JPG"
+	thumbURL="thumbs/scora (5).JPG"
+	linkURL="images/scora (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (6).JPG"
+	thumbURL="thumbs/scora (6).JPG"
+	linkURL="images/scora (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (7).JPG"
+	thumbURL="thumbs/scora (7).JPG"
+	linkURL="images/scora (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (8).JPG"
+	thumbURL="thumbs/scora (8).JPG"
+	linkURL="images/scora (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (9).JPG"
+	thumbURL="thumbs/scora (9).JPG"
+	linkURL="images/scora (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (10).JPG"
+	thumbURL="thumbs/scora (10).JPG"
+	linkURL="images/scora (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (11).JPG"
+	thumbURL="thumbs/scora (11).JPG"
+	linkURL="images/scora (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (12).JPG"
+	thumbURL="thumbs/scora (12).JPG"
+	linkURL="images/scora (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (13).JPG"
+	thumbURL="thumbs/scora (13).JPG"
+	linkURL="images/scora (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (14).JPG"
+	thumbURL="thumbs/scora (14).JPG"
+	linkURL="images/scora (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (15).JPG"
+	thumbURL="thumbs/scora (15).JPG"
+	linkURL="images/scora (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (16).JPG"
+	thumbURL="thumbs/scora (16).JPG"
+	linkURL="images/scora (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scora (17).JPG"
+	thumbURL="thumbs/scora (17).JPG"
+	linkURL="images/scora (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scora (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

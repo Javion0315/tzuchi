@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="karaokei.html"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+
+>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道1.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道1.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道2.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道2.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0001.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0001.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0002.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0002.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0003.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0003.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0004.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0004.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0005.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0005.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0006.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0006.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0007.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0007.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0008.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0008.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0009.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0009.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0010.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0010.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0011.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0011.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0012.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0012.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0013.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0013.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0014.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0014.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0015.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0015.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0016.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0016.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0017.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0017.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0018.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0018.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0019.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0019.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0020.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0020.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0021.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0021.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0022.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0022.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0023.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0023.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0024.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0024.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0024.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0025.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0025.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0025.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0026.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0026.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0026.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0026]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0027.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0027.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0027.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0028.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0028.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0028.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0028]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0029.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0029.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0029.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0030.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0030.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0030.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0031.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0031.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0031.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0032.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0032.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0032.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0033.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0033.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0033.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0034.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0034.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0034.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0035.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0035.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0035.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0036.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0036.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0036.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0037.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0037.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0037.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0037]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0038.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0038.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0038.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0039.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0039.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0039.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0040.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0040.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0040.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0041.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0041.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0041.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0042.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0042.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0042.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0043.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0043.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0043.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0044.jpg"
+	thumbURL="thumbs/1011_醫學系卡拉OK大賽之超級星光旁門左道_0044.jpg"
+	linkURL="images/1011_醫學系卡拉OK大賽之超級星光旁門左道_0044.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_醫學系卡拉OK大賽之超級星光旁門左道_0044]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="scorp.html"
+
+>
+  <image imageURL="images/scorp (1).JPG"
+	thumbURL="thumbs/scorp (1).JPG"
+	linkURL="images/scorp (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (2).JPG"
+	thumbURL="thumbs/scorp (2).JPG"
+	linkURL="images/scorp (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (3).JPG"
+	thumbURL="thumbs/scorp (3).JPG"
+	linkURL="images/scorp (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (4).JPG"
+	thumbURL="thumbs/scorp (4).JPG"
+	linkURL="images/scorp (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (5).JPG"
+	thumbURL="thumbs/scorp (5).JPG"
+	linkURL="images/scorp (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (6).JPG"
+	thumbURL="thumbs/scorp (6).JPG"
+	linkURL="images/scorp (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (7).JPG"
+	thumbURL="thumbs/scorp (7).JPG"
+	linkURL="images/scorp (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (8).JPG"
+	thumbURL="thumbs/scorp (8).JPG"
+	linkURL="images/scorp (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scorp (9).JPG"
+	thumbURL="thumbs/scorp (9).JPG"
+	linkURL="images/scorp (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scorp (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

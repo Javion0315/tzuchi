@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="true"
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+  resizeOnImport="true" showLargeThumbs="false"
+	indexPageName="cake.html"
+
+
+
+>
+  <image imageURL="images/cake (1).JPG"
+	thumbURL="thumbs/cake (1).JPG"
+	linkURL="images/cake (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (2).JPG"
+	thumbURL="thumbs/cake (2).JPG"
+	linkURL="images/cake (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (3).JPG"
+	thumbURL="thumbs/cake (3).JPG"
+	linkURL="images/cake (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (4).JPG"
+	thumbURL="thumbs/cake (4).JPG"
+	linkURL="images/cake (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (5).JPG"
+	thumbURL="thumbs/cake (5).JPG"
+	linkURL="images/cake (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (6).JPG"
+	thumbURL="thumbs/cake (6).JPG"
+	linkURL="images/cake (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (7).JPG"
+	thumbURL="thumbs/cake (7).JPG"
+	linkURL="images/cake (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (8).JPG"
+	thumbURL="thumbs/cake (8).JPG"
+	linkURL="images/cake (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (9).JPG"
+	thumbURL="thumbs/cake (9).JPG"
+	linkURL="images/cake (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (10).JPG"
+	thumbURL="thumbs/cake (10).JPG"
+	linkURL="images/cake (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (11).JPG"
+	thumbURL="thumbs/cake (11).JPG"
+	linkURL="images/cake (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (12).JPG"
+	thumbURL="thumbs/cake (12).JPG"
+	linkURL="images/cake (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (13).JPG"
+	thumbURL="thumbs/cake (13).JPG"
+	linkURL="images/cake (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (14).JPG"
+	thumbURL="thumbs/cake (14).JPG"
+	linkURL="images/cake (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (15).JPG"
+	thumbURL="thumbs/cake (15).JPG"
+	linkURL="images/cake (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (16).JPG"
+	thumbURL="thumbs/cake (16).JPG"
+	linkURL="images/cake (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (17).JPG"
+	thumbURL="thumbs/cake (17).JPG"
+	linkURL="images/cake (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (18).JPG"
+	thumbURL="thumbs/cake (18).JPG"
+	linkURL="images/cake (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (19).JPG"
+	thumbURL="thumbs/cake (19).JPG"
+	linkURL="images/cake (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (20).JPG"
+	thumbURL="thumbs/cake (20).JPG"
+	linkURL="images/cake (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (21).JPG"
+	thumbURL="thumbs/cake (21).JPG"
+	linkURL="images/cake (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (22).JPG"
+	thumbURL="thumbs/cake (22).JPG"
+	linkURL="images/cake (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (23).JPG"
+	thumbURL="thumbs/cake (23).JPG"
+	linkURL="images/cake (23).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (23)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (24).JPG"
+	thumbURL="thumbs/cake (24).JPG"
+	linkURL="images/cake (24).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (24)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (25).JPG"
+	thumbURL="thumbs/cake (25).JPG"
+	linkURL="images/cake (25).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (25)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (26).JPG"
+	thumbURL="thumbs/cake (26).JPG"
+	linkURL="images/cake (26).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (26)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cake (27).JPG"
+	thumbURL="thumbs/cake (27).JPG"
+	linkURL="images/cake (27).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[cake (27)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

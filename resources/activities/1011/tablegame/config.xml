@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="tablegame.html"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+
+>
+  <image imageURL="images/1011_桌遊分享會1.jpg"
+	thumbURL="thumbs/1011_桌遊分享會1.jpg"
+	linkURL="images/1011_桌遊分享會1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會2.jpg"
+	thumbURL="thumbs/1011_桌遊分享會2.jpg"
+	linkURL="images/1011_桌遊分享會2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0001.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0001.jpg"
+	linkURL="images/1011_桌遊分享會_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0002.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0002.jpg"
+	linkURL="images/1011_桌遊分享會_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0003.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0003.jpg"
+	linkURL="images/1011_桌遊分享會_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0004.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0004.jpg"
+	linkURL="images/1011_桌遊分享會_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0005.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0005.jpg"
+	linkURL="images/1011_桌遊分享會_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0006.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0006.jpg"
+	linkURL="images/1011_桌遊分享會_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0007.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0007.jpg"
+	linkURL="images/1011_桌遊分享會_0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0008.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0008.jpg"
+	linkURL="images/1011_桌遊分享會_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0009.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0009.jpg"
+	linkURL="images/1011_桌遊分享會_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0010.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0010.jpg"
+	linkURL="images/1011_桌遊分享會_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_桌遊分享會_0011.jpg"
+	thumbURL="thumbs/1011_桌遊分享會_0011.jpg"
+	linkURL="images/1011_桌遊分享會_0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_桌遊分享會_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

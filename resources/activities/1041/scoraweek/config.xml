@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="scoraweek.html"
+
+>
+  <image imageURL="images/scoraweek (1).JPG"
+	thumbURL="thumbs/scoraweek (1).JPG"
+	linkURL="images/scoraweek (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (2).JPG"
+	thumbURL="thumbs/scoraweek (2).JPG"
+	linkURL="images/scoraweek (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (3).JPG"
+	thumbURL="thumbs/scoraweek (3).JPG"
+	linkURL="images/scoraweek (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (4).JPG"
+	thumbURL="thumbs/scoraweek (4).JPG"
+	linkURL="images/scoraweek (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (5).JPG"
+	thumbURL="thumbs/scoraweek (5).JPG"
+	linkURL="images/scoraweek (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (6).JPG"
+	thumbURL="thumbs/scoraweek (6).JPG"
+	linkURL="images/scoraweek (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (7).JPG"
+	thumbURL="thumbs/scoraweek (7).JPG"
+	linkURL="images/scoraweek (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (8).JPG"
+	thumbURL="thumbs/scoraweek (8).JPG"
+	linkURL="images/scoraweek (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/scoraweek (9).JPG"
+	thumbURL="thumbs/scoraweek (9).JPG"
+	linkURL="images/scoraweek (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[scoraweek (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

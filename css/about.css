@@ -1,0 +1,244 @@
+.ab_w1200 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+ul {
+    line-height: 40px; 
+    margin-left: 50px;
+    font-size: 17px;
+}
+
+li i {
+    margin-right: 20px;
+}
+
+.dropbtn {
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+#main .ueeshop_responsive_position .position a:first-child {
+    color: #6c6c6c;
+}
+
+.dropdown-content { 
+  display: none;
+  position: absolute;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px;
+  background-color: white;
+  z-index: 1;
+}
+
+#aboutAc p {
+    margin-left: 35px;
+}
+
+.link1 {
+    color: #60b000;
+}
+.dropdown-content a {
+  color: black;
+  padding: 0px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+#centered2{
+
+	position: relative;
+
+	left: 31%;
+
+	width: 400px
+
+}
+.column {
+    float: left;
+    width: 20%;
+    margin-bottom: 16px;
+    margin-left: 110px;
+    padding: 0 8px;
+  }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+.container {
+  padding: 0 16px;
+  font-size: 14px;
+}
+
+.container::after, .row::after {
+  clear: both;
+  display: table;
+}
+#cat {font-family: Arial, Verdana;font-size: 14px;margin: 0;padding: 0;list-style: none;}
+
+#cat li {display: block;position: relative;float: left;}
+
+#cat li ul {display: none;}
+
+#cat li a {display: block;text-decoration: none;color: #ffffff;border-top: 1px solid #ffffff;padding: 5px 15px 5px 15px;
+
+    background: #60b000;margin-left: 1px;white-space: nowrap;}
+
+#cat li a:hover {background: #3b3b3b;}
+
+#cat li:hover ul {display: block;position: absolute;}
+
+#cat li:hover li {float: none;font-size: 14px;}
+
+#cat li:hover a { background: #3b3b3b;}
+
+#cat li:hover li a:hover {background: #60b000;}
+
+@font-face {
+    font-family: 'biko';
+    src: url(static/css/font/Biko_Regular/Biko_Regular.html);
+}
+
+.clear {
+    clear: both;
+}
+
+.ab_0 {
+    padding: 45px 0;
+}
+
+.ab_0 .left {
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ab_0 .right {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ab_0 .right .t0 {
+    font-size: 30px;
+    color: #169bd7;
+    font-family: "Myriad Pro";
+}
+
+.ab_0 .right .t1 {
+    font-size: 42px;
+    color: #505050;
+    margin-top: 10px;
+}
+
+.ab_0 .right .brief {
+    font-size: 15px;
+    color: #6c6c6c;
+    font-family: "Myriad Pro";
+    line-height: 200%;
+    margin-top: 25px;
+}
+
+.ab_0 .right .opt {
+    padding-top: 45px;
+}
+
+.ab_0 .right .opt .li {
+    background: url(../u_file/1808/photo/d75f66c78b.png) no-repeat left center;
+    padding-left: 30px;
+    font-family: "Myriad Pro";
+    font-size: 15px;
+    color: #6c6c6c;
+    line-height: 200%;
+}
+
+.ab_1 {
+    background: #f6f6f6;
+    padding: 70px 0;
+    text-align: center;
+}
+
+.ab_1 .ti {
+    font-size: 32px;
+    color: #505050;
+    margin-bottom: 50px;
+}
+
+.ab_1 .row {}
+
+.ab_1 .row .box {
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 0 2%;
+}
+
+.ab_1 .row .box .num {
+    font-size: 66px;
+    color: #333;
+    font-family: 'biko';
+    margin-bottom: 10px;
+}
+
+.ab_1 .row .box .word {
+    font-size: 16px;
+    color: #666;
+    font-family: "Myriad Pro";
+}
+
+@media (max-width:1200px) {
+    .ab_w1200 {
+        width: 96%;
+    }
+}
+
+@media (max-width:991px) {
+    .ab_0 .right .t1 {
+        font-size: 28px;
+    }
+
+    .ab_0 .left {
+        text-align: center;
+    }
+
+    .ab_0 .left,
+    .ab_0 .right {
+        width: 100%;
+        display: block;
+    }
+
+    .ab_1 {
+        padding: 25px 0;
+    }
+
+    .ab_1 .ti {
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+
+    .ab_1 .row .box {
+        width: 50%;
+        margin-bottom: 15px;
+    }
+
+    .ab_1 .row .box .num {
+        font-size: 46px;
+    }
+
+    .ab_1 .row .box .word {
+        font-size: 14px;
+    }
+}

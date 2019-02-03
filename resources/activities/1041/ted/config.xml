@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="ted.html"
+
+>
+  <image imageURL="images/ted (1).JPG"
+	thumbURL="thumbs/ted (1).JPG"
+	linkURL="images/ted (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (2).JPG"
+	thumbURL="thumbs/ted (2).JPG"
+	linkURL="images/ted (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (3).JPG"
+	thumbURL="thumbs/ted (3).JPG"
+	linkURL="images/ted (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (4).JPG"
+	thumbURL="thumbs/ted (4).JPG"
+	linkURL="images/ted (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (5).JPG"
+	thumbURL="thumbs/ted (5).JPG"
+	linkURL="images/ted (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (6).JPG"
+	thumbURL="thumbs/ted (6).JPG"
+	linkURL="images/ted (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (7).JPG"
+	thumbURL="thumbs/ted (7).JPG"
+	linkURL="images/ted (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (8).JPG"
+	thumbURL="thumbs/ted (8).JPG"
+	linkURL="images/ted (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (9).JPG"
+	thumbURL="thumbs/ted (9).JPG"
+	linkURL="images/ted (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (10).JPG"
+	thumbURL="thumbs/ted (10).JPG"
+	linkURL="images/ted (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (11).JPG"
+	thumbURL="thumbs/ted (11).JPG"
+	linkURL="images/ted (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (12).JPG"
+	thumbURL="thumbs/ted (12).JPG"
+	linkURL="images/ted (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (13).JPG"
+	thumbURL="thumbs/ted (13).JPG"
+	linkURL="images/ted (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (14).JPG"
+	thumbURL="thumbs/ted (14).JPG"
+	linkURL="images/ted (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (15).JPG"
+	thumbURL="thumbs/ted (15).JPG"
+	linkURL="images/ted (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (16).JPG"
+	thumbURL="thumbs/ted (16).JPG"
+	linkURL="images/ted (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (17).JPG"
+	thumbURL="thumbs/ted (17).JPG"
+	linkURL="images/ted (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (18).JPG"
+	thumbURL="thumbs/ted (18).JPG"
+	linkURL="images/ted (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (19).JPG"
+	thumbURL="thumbs/ted (19).JPG"
+	linkURL="images/ted (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (20).JPG"
+	thumbURL="thumbs/ted (20).JPG"
+	linkURL="images/ted (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ted (21).JPG"
+	thumbURL="thumbs/ted (21).JPG"
+	linkURL="images/ted (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ted (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

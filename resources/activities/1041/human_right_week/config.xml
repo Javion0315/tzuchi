@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="HRW.html"
+
+>
+  <image imageURL="images/HRW (1).JPG"
+	thumbURL="thumbs/HRW (1).JPG"
+	linkURL="images/HRW (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (2).JPG"
+	thumbURL="thumbs/HRW (2).JPG"
+	linkURL="images/HRW (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (3).JPG"
+	thumbURL="thumbs/HRW (3).JPG"
+	linkURL="images/HRW (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (4).JPG"
+	thumbURL="thumbs/HRW (4).JPG"
+	linkURL="images/HRW (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (5).JPG"
+	thumbURL="thumbs/HRW (5).JPG"
+	linkURL="images/HRW (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (6).JPG"
+	thumbURL="thumbs/HRW (6).JPG"
+	linkURL="images/HRW (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (7).JPG"
+	thumbURL="thumbs/HRW (7).JPG"
+	linkURL="images/HRW (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (8).JPG"
+	thumbURL="thumbs/HRW (8).JPG"
+	linkURL="images/HRW (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (9).JPG"
+	thumbURL="thumbs/HRW (9).JPG"
+	linkURL="images/HRW (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (10).JPG"
+	thumbURL="thumbs/HRW (10).JPG"
+	linkURL="images/HRW (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (11).JPG"
+	thumbURL="thumbs/HRW (11).JPG"
+	linkURL="images/HRW (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (12).JPG"
+	thumbURL="thumbs/HRW (12).JPG"
+	linkURL="images/HRW (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (13).JPG"
+	thumbURL="thumbs/HRW (13).JPG"
+	linkURL="images/HRW (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (14).JPG"
+	thumbURL="thumbs/HRW (14).JPG"
+	linkURL="images/HRW (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (15).JPG"
+	thumbURL="thumbs/HRW (15).JPG"
+	linkURL="images/HRW (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (16).JPG"
+	thumbURL="thumbs/HRW (16).JPG"
+	linkURL="images/HRW (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (17).JPG"
+	thumbURL="thumbs/HRW (17).JPG"
+	linkURL="images/HRW (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (18).JPG"
+	thumbURL="thumbs/HRW (18).JPG"
+	linkURL="images/HRW (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (19).JPG"
+	thumbURL="thumbs/HRW (19).JPG"
+	linkURL="images/HRW (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (20).JPG"
+	thumbURL="thumbs/HRW (20).JPG"
+	linkURL="images/HRW (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (21).JPG"
+	thumbURL="thumbs/HRW (21).JPG"
+	linkURL="images/HRW (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (22).JPG"
+	thumbURL="thumbs/HRW (22).JPG"
+	linkURL="images/HRW (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (23).JPG"
+	thumbURL="thumbs/HRW (23).JPG"
+	linkURL="images/HRW (23).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (23)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (24).JPG"
+	thumbURL="thumbs/HRW (24).JPG"
+	linkURL="images/HRW (24).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (24)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (25).JPG"
+	thumbURL="thumbs/HRW (25).JPG"
+	linkURL="images/HRW (25).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (25)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (26).JPG"
+	thumbURL="thumbs/HRW (26).JPG"
+	linkURL="images/HRW (26).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (26)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (27).JPG"
+	thumbURL="thumbs/HRW (27).JPG"
+	linkURL="images/HRW (27).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (27)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (28).JPG"
+	thumbURL="thumbs/HRW (28).JPG"
+	linkURL="images/HRW (28).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (28)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (29).JPG"
+	thumbURL="thumbs/HRW (29).JPG"
+	linkURL="images/HRW (29).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (29)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (30).JPG"
+	thumbURL="thumbs/HRW (30).JPG"
+	linkURL="images/HRW (30).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (30)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (31).JPG"
+	thumbURL="thumbs/HRW (31).JPG"
+	linkURL="images/HRW (31).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (31)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (32).JPG"
+	thumbURL="thumbs/HRW (32).JPG"
+	linkURL="images/HRW (32).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (32)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (33).JPG"
+	thumbURL="thumbs/HRW (33).JPG"
+	linkURL="images/HRW (33).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (33)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (34).JPG"
+	thumbURL="thumbs/HRW (34).JPG"
+	linkURL="images/HRW (34).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (34)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (35).JPG"
+	thumbURL="thumbs/HRW (35).JPG"
+	linkURL="images/HRW (35).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (35)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (36).JPG"
+	thumbURL="thumbs/HRW (36).JPG"
+	linkURL="images/HRW (36).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (36)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (37).JPG"
+	thumbURL="thumbs/HRW (37).JPG"
+	linkURL="images/HRW (37).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (37)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (38).JPG"
+	thumbURL="thumbs/HRW (38).JPG"
+	linkURL="images/HRW (38).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (38)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (39).JPG"
+	thumbURL="thumbs/HRW (39).JPG"
+	linkURL="images/HRW (39).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (39)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/HRW (40).JPG"
+	thumbURL="thumbs/HRW (40).JPG"
+	linkURL="images/HRW (40).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[HRW (40)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="rs.html"
+
+>
+  <image imageURL="images/1021_彩虹計畫講座.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座.JPG"
+	linkURL="images/1021_彩虹計畫講座.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_活動簡介.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_活動簡介.JPG"
+	linkURL="images/1021_彩虹計畫講座_活動簡介.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_活動簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0001.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0001.JPG"
+	linkURL="images/1021_彩虹計畫講座_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0002.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0002.JPG"
+	linkURL="images/1021_彩虹計畫講座_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0003.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0003.JPG"
+	linkURL="images/1021_彩虹計畫講座_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0004.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0004.JPG"
+	linkURL="images/1021_彩虹計畫講座_0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0005.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0005.JPG"
+	linkURL="images/1021_彩虹計畫講座_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0006.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0006.JPG"
+	linkURL="images/1021_彩虹計畫講座_0006.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0007.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0007.JPG"
+	linkURL="images/1021_彩虹計畫講座_0007.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0008.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0008.JPG"
+	linkURL="images/1021_彩虹計畫講座_0008.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0009.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0009.JPG"
+	linkURL="images/1021_彩虹計畫講座_0009.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0010.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0010.JPG"
+	linkURL="images/1021_彩虹計畫講座_0010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0011.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0011.JPG"
+	linkURL="images/1021_彩虹計畫講座_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0012.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0012.JPG"
+	linkURL="images/1021_彩虹計畫講座_0012.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0013.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0013.JPG"
+	linkURL="images/1021_彩虹計畫講座_0013.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0014.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0014.JPG"
+	linkURL="images/1021_彩虹計畫講座_0014.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0015.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0015.JPG"
+	linkURL="images/1021_彩虹計畫講座_0015.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0016.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0016.JPG"
+	linkURL="images/1021_彩虹計畫講座_0016.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0017.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0017.JPG"
+	linkURL="images/1021_彩虹計畫講座_0017.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0018.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0018.JPG"
+	linkURL="images/1021_彩虹計畫講座_0018.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0019.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0019.JPG"
+	linkURL="images/1021_彩虹計畫講座_0019.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_彩虹計畫講座_0020.JPG"
+	thumbURL="thumbs/1021_彩虹計畫講座_0020.JPG"
+	linkURL="images/1021_彩虹計畫講座_0020.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_彩虹計畫講座_0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

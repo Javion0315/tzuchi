@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="medfare.html"
+
+>
+  <image imageURL="images/1012_送舊.JPG"
+	thumbURL="thumbs/1012_送舊.JPG"
+	linkURL="images/1012_送舊.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_簡介.JPG"
+	thumbURL="thumbs/1012_送舊_簡介.JPG"
+	linkURL="images/1012_送舊_簡介.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_0001.jpg"
+	thumbURL="thumbs/1012_送舊_0001.jpg"
+	linkURL="images/1012_送舊_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_0002.jpg"
+	thumbURL="thumbs/1012_送舊_0002.jpg"
+	linkURL="images/1012_送舊_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_0003.jpg"
+	thumbURL="thumbs/1012_送舊_0003.jpg"
+	linkURL="images/1012_送舊_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_0004.jpg"
+	thumbURL="thumbs/1012_送舊_0004.jpg"
+	linkURL="images/1012_送舊_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_送舊_0005.jpg"
+	thumbURL="thumbs/1012_送舊_0005.jpg"
+	linkURL="images/1012_送舊_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_送舊_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

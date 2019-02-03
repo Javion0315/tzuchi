@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="backhome.html"
+
+>
+  <image imageURL="images/backhome (1).JPG"
+	thumbURL="thumbs/backhome (1).JPG"
+	linkURL="images/backhome (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/backhome (2).JPG"
+	thumbURL="thumbs/backhome (2).JPG"
+	linkURL="images/backhome (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/backhome (3).JPG"
+	thumbURL="thumbs/backhome (3).JPG"
+	linkURL="images/backhome (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/backhome (4).JPG"
+	thumbURL="thumbs/backhome (4).JPG"
+	linkURL="images/backhome (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/backhome (5).JPG"
+	thumbURL="thumbs/backhome (5).JPG"
+	linkURL="images/backhome (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/backhome (6).JPG"
+	thumbURL="thumbs/backhome (6).JPG"
+	linkURL="images/backhome (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[backhome (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

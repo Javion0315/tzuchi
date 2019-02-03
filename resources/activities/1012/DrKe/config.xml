@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="DrKe.html"
+
+>
+  <image imageURL="images/1012_柯文哲醫師專題演講.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_活動簡介.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_活動簡介.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_活動簡介.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_活動簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0001.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0001.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0002.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0002.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0003.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0003.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0004.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0004.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0005.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0005.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0006.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0006.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0006.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0007.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0007.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0007.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0008.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0008.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0008.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0009.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0009.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0009.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0010.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0010.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0011.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0011.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0012.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0012.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0012.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0013.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0013.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0013.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_柯文哲醫師專題演講_0014.JPG"
+	thumbURL="thumbs/1012_柯文哲醫師專題演講_0014.JPG"
+	linkURL="images/1012_柯文哲醫師專題演講_0014.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_柯文哲醫師專題演講_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

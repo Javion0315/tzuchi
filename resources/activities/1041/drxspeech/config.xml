@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="drxspeech.html"
+
+>
+  <image imageURL="images/drxspeech (1).JPG"
+	thumbURL="thumbs/drxspeech (1).JPG"
+	linkURL="images/drxspeech (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (2).JPG"
+	thumbURL="thumbs/drxspeech (2).JPG"
+	linkURL="images/drxspeech (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (3).JPG"
+	thumbURL="thumbs/drxspeech (3).JPG"
+	linkURL="images/drxspeech (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (4).JPG"
+	thumbURL="thumbs/drxspeech (4).JPG"
+	linkURL="images/drxspeech (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (5).JPG"
+	thumbURL="thumbs/drxspeech (5).JPG"
+	linkURL="images/drxspeech (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (6).JPG"
+	thumbURL="thumbs/drxspeech (6).JPG"
+	linkURL="images/drxspeech (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (7).JPG"
+	thumbURL="thumbs/drxspeech (7).JPG"
+	linkURL="images/drxspeech (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/drxspeech (8).JPG"
+	thumbURL="thumbs/drxspeech (8).JPG"
+	linkURL="images/drxspeech (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[drxspeech (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="ice.html"
+
+>
+  <image imageURL="images/ice (1).JPG"
+	thumbURL="thumbs/ice (1).JPG"
+	linkURL="images/ice (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (2).JPG"
+	thumbURL="thumbs/ice (2).JPG"
+	linkURL="images/ice (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (3).JPG"
+	thumbURL="thumbs/ice (3).JPG"
+	linkURL="images/ice (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (4).JPG"
+	thumbURL="thumbs/ice (4).JPG"
+	linkURL="images/ice (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (5).JPG"
+	thumbURL="thumbs/ice (5).JPG"
+	linkURL="images/ice (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (6).JPG"
+	thumbURL="thumbs/ice (6).JPG"
+	linkURL="images/ice (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (7).JPG"
+	thumbURL="thumbs/ice (7).JPG"
+	linkURL="images/ice (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (8).JPG"
+	thumbURL="thumbs/ice (8).JPG"
+	linkURL="images/ice (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (9).JPG"
+	thumbURL="thumbs/ice (9).JPG"
+	linkURL="images/ice (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (10).JPG"
+	thumbURL="thumbs/ice (10).JPG"
+	linkURL="images/ice (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (11).JPG"
+	thumbURL="thumbs/ice (11).JPG"
+	linkURL="images/ice (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (12).JPG"
+	thumbURL="thumbs/ice (12).JPG"
+	linkURL="images/ice (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (13).JPG"
+	thumbURL="thumbs/ice (13).JPG"
+	linkURL="images/ice (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (14).JPG"
+	thumbURL="thumbs/ice (14).JPG"
+	linkURL="images/ice (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (15).JPG"
+	thumbURL="thumbs/ice (15).JPG"
+	linkURL="images/ice (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (16).JPG"
+	thumbURL="thumbs/ice (16).JPG"
+	linkURL="images/ice (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (17).JPG"
+	thumbURL="thumbs/ice (17).JPG"
+	linkURL="images/ice (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (18).JPG"
+	thumbURL="thumbs/ice (18).JPG"
+	linkURL="images/ice (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (19).JPG"
+	thumbURL="thumbs/ice (19).JPG"
+	linkURL="images/ice (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (20).JPG"
+	thumbURL="thumbs/ice (20).JPG"
+	linkURL="images/ice (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (21).JPG"
+	thumbURL="thumbs/ice (21).JPG"
+	linkURL="images/ice (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (22).JPG"
+	thumbURL="thumbs/ice (22).JPG"
+	linkURL="images/ice (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (23).JPG"
+	thumbURL="thumbs/ice (23).JPG"
+	linkURL="images/ice (23).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (23)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (24).JPG"
+	thumbURL="thumbs/ice (24).JPG"
+	linkURL="images/ice (24).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (24)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ice (25).JPG"
+	thumbURL="thumbs/ice (25).JPG"
+	linkURL="images/ice (25).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[ice (25)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

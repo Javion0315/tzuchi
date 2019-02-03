@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+	indexPageName="miharashi.html"
+
+>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊1.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊1.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊2.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊2.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊第一次期中出隊簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1001.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1001.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1002.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1002.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1003.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1003.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1004.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1004.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1005.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1005.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1006.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1006.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1007.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1007.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1008.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1008.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1009.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1009.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1010.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1010.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1011.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1011.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1012.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1012.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1013.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1013.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1014.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1014.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1015.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1015.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1016.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1016.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1017.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1017.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1018.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1018.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1019.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1019.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1020.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1020.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1021.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1021.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1022.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1022.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1023.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1023.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1024.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1024.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1024.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_1025.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_1025.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_1025.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_1025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊3.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊3.JPG"
+	linkURL="images/1011_見晴醫療服務隊期中出隊3.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊第二次期中出隊簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2001.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2001.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2002.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2002.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2003.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2003.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2004.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2004.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2005.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2005.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2006.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2006.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2007.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2007.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2008.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2008.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2009.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2009.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2010.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2010.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2011.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2011.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2012.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2012.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2013.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2013.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2014.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2014.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2015.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2015.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2016.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2016.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2017.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2017.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2018.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2018.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2019.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2019.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2020.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2020.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2021.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2021.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2022.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2022.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2023.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2023.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2024.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2024.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2024.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_2025.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_2025.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_2025.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_2025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊4.JPG"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊4.JPG"
+	linkURL="images/1011_見晴醫療服務隊期中出隊4.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊第三次期中出隊簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3001.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3001.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3002.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3002.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3003.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3003.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3004.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3004.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3005.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3005.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3006.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3006.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3007.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3007.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3008.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3008.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3009.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3009.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3010.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3010.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3011.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3011.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3012.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3012.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3013.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3013.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3014.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3014.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3015.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3015.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3016.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3016.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3017.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3017.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3018.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3018.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3019.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3019.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3020.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3020.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3021.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3021.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3022.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3022.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3022.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_見晴醫療服務隊期中出隊_3023.jpg"
+	thumbURL="thumbs/1011_見晴醫療服務隊期中出隊_3023.jpg"
+	linkURL="images/1011_見晴醫療服務隊期中出隊_3023.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_見晴醫療服務隊期中出隊_3023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

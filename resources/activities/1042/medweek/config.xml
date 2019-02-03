@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="medweek.html"
+
+>
+  <image imageURL="images/medweek (1).JPG"
+	thumbURL="thumbs/medweek (1).JPG"
+	linkURL="images/medweek (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (2).JPG"
+	thumbURL="thumbs/medweek (2).JPG"
+	linkURL="images/medweek (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (3).JPG"
+	thumbURL="thumbs/medweek (3).JPG"
+	linkURL="images/medweek (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (4).JPG"
+	thumbURL="thumbs/medweek (4).JPG"
+	linkURL="images/medweek (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (5).JPG"
+	thumbURL="thumbs/medweek (5).JPG"
+	linkURL="images/medweek (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (6).JPG"
+	thumbURL="thumbs/medweek (6).JPG"
+	linkURL="images/medweek (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (7).JPG"
+	thumbURL="thumbs/medweek (7).JPG"
+	linkURL="images/medweek (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (8).JPG"
+	thumbURL="thumbs/medweek (8).JPG"
+	linkURL="images/medweek (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (9).JPG"
+	thumbURL="thumbs/medweek (9).JPG"
+	linkURL="images/medweek (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (10).JPG"
+	thumbURL="thumbs/medweek (10).JPG"
+	linkURL="images/medweek (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (11).JPG"
+	thumbURL="thumbs/medweek (11).JPG"
+	linkURL="images/medweek (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (12).JPG"
+	thumbURL="thumbs/medweek (12).JPG"
+	linkURL="images/medweek (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (13).JPG"
+	thumbURL="thumbs/medweek (13).JPG"
+	linkURL="images/medweek (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (14).JPG"
+	thumbURL="thumbs/medweek (14).JPG"
+	linkURL="images/medweek (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (15).JPG"
+	thumbURL="thumbs/medweek (15).JPG"
+	linkURL="images/medweek (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (16).JPG"
+	thumbURL="thumbs/medweek (16).JPG"
+	linkURL="images/medweek (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medweek (17).JPG"
+	thumbURL="thumbs/medweek (17).JPG"
+	linkURL="images/medweek (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medweek (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

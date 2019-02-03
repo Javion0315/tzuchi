@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="me.html"
+
+>
+  <image imageURL="images/1012_百萬小學堂.JPG"
+	thumbURL="thumbs/1012_百萬小學堂.JPG"
+	linkURL="images/1012_百萬小學堂.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0001.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0001.JPG"
+	linkURL="images/1012_百萬小學堂_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0002.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0002.JPG"
+	linkURL="images/1012_百萬小學堂_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0003.jpg"
+	thumbURL="thumbs/1012_百萬小學堂_0003.jpg"
+	linkURL="images/1012_百萬小學堂_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0004.jpg"
+	thumbURL="thumbs/1012_百萬小學堂_0004.jpg"
+	linkURL="images/1012_百萬小學堂_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0005.jpg"
+	thumbURL="thumbs/1012_百萬小學堂_0005.jpg"
+	linkURL="images/1012_百萬小學堂_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0006.jpg"
+	thumbURL="thumbs/1012_百萬小學堂_0006.jpg"
+	linkURL="images/1012_百萬小學堂_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0008.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0008.JPG"
+	linkURL="images/1012_百萬小學堂_0008.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0009.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0009.JPG"
+	linkURL="images/1012_百萬小學堂_0009.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0010.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0010.JPG"
+	linkURL="images/1012_百萬小學堂_0010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0011.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0011.JPG"
+	linkURL="images/1012_百萬小學堂_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0012.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0012.JPG"
+	linkURL="images/1012_百萬小學堂_0012.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0013.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0013.JPG"
+	linkURL="images/1012_百萬小學堂_0013.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0014.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0014.JPG"
+	linkURL="images/1012_百萬小學堂_0014.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0015.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0015.JPG"
+	linkURL="images/1012_百萬小學堂_0015.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0016.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0016.JPG"
+	linkURL="images/1012_百萬小學堂_0016.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0017.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0017.JPG"
+	linkURL="images/1012_百萬小學堂_0017.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0018.JPG"
+	thumbURL="thumbs/1012_百萬小學堂_0018.JPG"
+	linkURL="images/1012_百萬小學堂_0018.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1012_百萬小學堂_0019.jpg"
+	thumbURL="thumbs/1012_百萬小學堂_0019.jpg"
+	linkURL="images/1012_百萬小學堂_0019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1012_百萬小學堂_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

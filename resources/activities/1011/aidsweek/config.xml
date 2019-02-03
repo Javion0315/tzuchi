@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="aidsweek.html"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+
+>
+  <image imageURL="images/1011_愛滋周1.jpg"
+	thumbURL="thumbs/1011_愛滋周1.jpg"
+	linkURL="images/1011_愛滋周1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周2.jpg"
+	thumbURL="thumbs/1011_愛滋周2.jpg"
+	linkURL="images/1011_愛滋周2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0001.jpg"
+	thumbURL="thumbs/1011_愛滋周_0001.jpg"
+	linkURL="images/1011_愛滋周_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0002.jpg"
+	thumbURL="thumbs/1011_愛滋周_0002.jpg"
+	linkURL="images/1011_愛滋周_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0003.jpg"
+	thumbURL="thumbs/1011_愛滋周_0003.jpg"
+	linkURL="images/1011_愛滋周_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0004.jpg"
+	thumbURL="thumbs/1011_愛滋周_0004.jpg"
+	linkURL="images/1011_愛滋周_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0005.jpg"
+	thumbURL="thumbs/1011_愛滋周_0005.jpg"
+	linkURL="images/1011_愛滋周_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0006.jpg"
+	thumbURL="thumbs/1011_愛滋周_0006.jpg"
+	linkURL="images/1011_愛滋周_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0007.jpg"
+	thumbURL="thumbs/1011_愛滋周_0007.jpg"
+	linkURL="images/1011_愛滋周_0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0008.jpg"
+	thumbURL="thumbs/1011_愛滋周_0008.jpg"
+	linkURL="images/1011_愛滋周_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0009.jpg"
+	thumbURL="thumbs/1011_愛滋周_0009.jpg"
+	linkURL="images/1011_愛滋周_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0010.jpg"
+	thumbURL="thumbs/1011_愛滋周_0010.jpg"
+	linkURL="images/1011_愛滋周_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0011.jpg"
+	thumbURL="thumbs/1011_愛滋周_0011.jpg"
+	linkURL="images/1011_愛滋周_0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0012.jpg"
+	thumbURL="thumbs/1011_愛滋周_0012.jpg"
+	linkURL="images/1011_愛滋周_0012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0013.jpg"
+	thumbURL="thumbs/1011_愛滋周_0013.jpg"
+	linkURL="images/1011_愛滋周_0013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0014.jpg"
+	thumbURL="thumbs/1011_愛滋周_0014.jpg"
+	linkURL="images/1011_愛滋周_0014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0015.jpg"
+	thumbURL="thumbs/1011_愛滋周_0015.jpg"
+	linkURL="images/1011_愛滋周_0015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0016.jpg"
+	thumbURL="thumbs/1011_愛滋周_0016.jpg"
+	linkURL="images/1011_愛滋周_0016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0017.jpg"
+	thumbURL="thumbs/1011_愛滋周_0017.jpg"
+	linkURL="images/1011_愛滋周_0017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0018.jpg"
+	thumbURL="thumbs/1011_愛滋周_0018.jpg"
+	linkURL="images/1011_愛滋周_0018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0019.jpg"
+	thumbURL="thumbs/1011_愛滋周_0019.jpg"
+	linkURL="images/1011_愛滋周_0019.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0020.jpg"
+	thumbURL="thumbs/1011_愛滋周_0020.jpg"
+	linkURL="images/1011_愛滋周_0020.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_愛滋周_0021.jpg"
+	thumbURL="thumbs/1011_愛滋周_0021.jpg"
+	linkURL="images/1011_愛滋周_0021.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_愛滋周_0021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

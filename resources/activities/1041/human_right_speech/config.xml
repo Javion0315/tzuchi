@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="hrs.html"
+
+>
+  <image imageURL="images/human_right_speech (1).JPG"
+	thumbURL="thumbs/human_right_speech (1).JPG"
+	linkURL="images/human_right_speech (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (2).JPG"
+	thumbURL="thumbs/human_right_speech (2).JPG"
+	linkURL="images/human_right_speech (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (3).JPG"
+	thumbURL="thumbs/human_right_speech (3).JPG"
+	linkURL="images/human_right_speech (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (4).JPG"
+	thumbURL="thumbs/human_right_speech (4).JPG"
+	linkURL="images/human_right_speech (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (5).JPG"
+	thumbURL="thumbs/human_right_speech (5).JPG"
+	linkURL="images/human_right_speech (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (6).JPG"
+	thumbURL="thumbs/human_right_speech (6).JPG"
+	linkURL="images/human_right_speech (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (7).JPG"
+	thumbURL="thumbs/human_right_speech (7).JPG"
+	linkURL="images/human_right_speech (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (8).JPG"
+	thumbURL="thumbs/human_right_speech (8).JPG"
+	linkURL="images/human_right_speech (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/human_right_speech (9).JPG"
+	thumbURL="thumbs/human_right_speech (9).JPG"
+	linkURL="images/human_right_speech (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[human_right_speech (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="scora.html"
+
+>
+  <image imageURL="images/1 (1).JPG"
+	thumbURL="thumbs/1 (1).JPG"
+	linkURL="images/1 (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (2).JPG"
+	thumbURL="thumbs/1 (2).JPG"
+	linkURL="images/1 (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (3).JPG"
+	thumbURL="thumbs/1 (3).JPG"
+	linkURL="images/1 (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (4).JPG"
+	thumbURL="thumbs/1 (4).JPG"
+	linkURL="images/1 (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (5).JPG"
+	thumbURL="thumbs/1 (5).JPG"
+	linkURL="images/1 (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (6).JPG"
+	thumbURL="thumbs/1 (6).JPG"
+	linkURL="images/1 (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (7).JPG"
+	thumbURL="thumbs/1 (7).JPG"
+	linkURL="images/1 (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (8).JPG"
+	thumbURL="thumbs/1 (8).JPG"
+	linkURL="images/1 (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (9).JPG"
+	thumbURL="thumbs/1 (9).JPG"
+	linkURL="images/1 (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (10).JPG"
+	thumbURL="thumbs/1 (10).JPG"
+	linkURL="images/1 (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (11).JPG"
+	thumbURL="thumbs/1 (11).JPG"
+	linkURL="images/1 (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (12).JPG"
+	thumbURL="thumbs/1 (12).JPG"
+	linkURL="images/1 (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (13).JPG"
+	thumbURL="thumbs/1 (13).JPG"
+	linkURL="images/1 (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (14).JPG"
+	thumbURL="thumbs/1 (14).JPG"
+	linkURL="images/1 (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (15).JPG"
+	thumbURL="thumbs/1 (15).JPG"
+	linkURL="images/1 (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (16).JPG"
+	thumbURL="thumbs/1 (16).JPG"
+	linkURL="images/1 (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1 (17).JPG"
+	thumbURL="thumbs/1 (17).JPG"
+	linkURL="images/1 (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1 (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

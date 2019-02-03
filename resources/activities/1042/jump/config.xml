@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showSmallThumbs="true"
+	showLargeThumbs="false"
+	indexPageName="jump.html"
+
+>
+  <image imageURL="images/jump (1).JPG"
+	thumbURL="thumbs/jump (1).JPG"
+	linkURL="images/jump (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (2).JPG"
+	thumbURL="thumbs/jump (2).JPG"
+	linkURL="images/jump (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (3).JPG"
+	thumbURL="thumbs/jump (3).JPG"
+	linkURL="images/jump (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (4).JPG"
+	thumbURL="thumbs/jump (4).JPG"
+	linkURL="images/jump (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (5).JPG"
+	thumbURL="thumbs/jump (5).JPG"
+	linkURL="images/jump (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (6).JPG"
+	thumbURL="thumbs/jump (6).JPG"
+	linkURL="images/jump (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (7).JPG"
+	thumbURL="thumbs/jump (7).JPG"
+	linkURL="images/jump (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (8).JPG"
+	thumbURL="thumbs/jump (8).JPG"
+	linkURL="images/jump (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (9).JPG"
+	thumbURL="thumbs/jump (9).JPG"
+	linkURL="images/jump (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (10).JPG"
+	thumbURL="thumbs/jump (10).JPG"
+	linkURL="images/jump (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (11).JPG"
+	thumbURL="thumbs/jump (11).JPG"
+	linkURL="images/jump (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (12).JPG"
+	thumbURL="thumbs/jump (12).JPG"
+	linkURL="images/jump (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (13).JPG"
+	thumbURL="thumbs/jump (13).JPG"
+	linkURL="images/jump (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jump (14).JPG"
+	thumbURL="thumbs/jump (14).JPG"
+	linkURL="images/jump (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[jump (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

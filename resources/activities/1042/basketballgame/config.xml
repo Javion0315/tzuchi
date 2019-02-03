@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showSmallThumbs="true"
+	showLargeThumbs="false"
+	indexPageName="basketballgame.html"
+
+>
+  <image imageURL="images/0001.jpg"
+	thumbURL="thumbs/0001.jpg"
+	linkURL="images/0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0002.jpg"
+	thumbURL="thumbs/0002.jpg"
+	linkURL="images/0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0003.jpg"
+	thumbURL="thumbs/0003.jpg"
+	linkURL="images/0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0004.jpg"
+	thumbURL="thumbs/0004.jpg"
+	linkURL="images/0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0005.jpg"
+	thumbURL="thumbs/0005.jpg"
+	linkURL="images/0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0006.jpg"
+	thumbURL="thumbs/0006.jpg"
+	linkURL="images/0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0007.jpg"
+	thumbURL="thumbs/0007.jpg"
+	linkURL="images/0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0008.jpg"
+	thumbURL="thumbs/0008.jpg"
+	linkURL="images/0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0009.jpg"
+	thumbURL="thumbs/0009.jpg"
+	linkURL="images/0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0010.jpg"
+	thumbURL="thumbs/0010.jpg"
+	linkURL="images/0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0011.jpg"
+	thumbURL="thumbs/0011.jpg"
+	linkURL="images/0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

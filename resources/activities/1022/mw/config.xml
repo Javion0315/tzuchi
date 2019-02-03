@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="mw.html"
+
+>
+  <image imageURL="images/1022_醫學週.JPG"
+	thumbURL="thumbs/1022_醫學週.JPG"
+	linkURL="images/1022_醫學週.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_活動目的.JPG"
+	thumbURL="thumbs/1022_醫學週_活動目的.JPG"
+	linkURL="images/1022_醫學週_活動目的.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_活動目的]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_活動流程.JPG"
+	thumbURL="thumbs/1022_醫學週_活動流程.JPG"
+	linkURL="images/1022_醫學週_活動流程.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_活動流程]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0001.JPG"
+	thumbURL="thumbs/1022_醫學週_0001.JPG"
+	linkURL="images/1022_醫學週_0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0002.JPG"
+	thumbURL="thumbs/1022_醫學週_0002.JPG"
+	linkURL="images/1022_醫學週_0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0003.JPG"
+	thumbURL="thumbs/1022_醫學週_0003.JPG"
+	linkURL="images/1022_醫學週_0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0004.JPG"
+	thumbURL="thumbs/1022_醫學週_0004.JPG"
+	linkURL="images/1022_醫學週_0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0005.JPG"
+	thumbURL="thumbs/1022_醫學週_0005.JPG"
+	linkURL="images/1022_醫學週_0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0006.JPG"
+	thumbURL="thumbs/1022_醫學週_0006.JPG"
+	linkURL="images/1022_醫學週_0006.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0007.JPG"
+	thumbURL="thumbs/1022_醫學週_0007.JPG"
+	linkURL="images/1022_醫學週_0007.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0008.JPG"
+	thumbURL="thumbs/1022_醫學週_0008.JPG"
+	linkURL="images/1022_醫學週_0008.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0009.JPG"
+	thumbURL="thumbs/1022_醫學週_0009.JPG"
+	linkURL="images/1022_醫學週_0009.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0010.JPG"
+	thumbURL="thumbs/1022_醫學週_0010.JPG"
+	linkURL="images/1022_醫學週_0010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0011.JPG"
+	thumbURL="thumbs/1022_醫學週_0011.JPG"
+	linkURL="images/1022_醫學週_0011.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0012.JPG"
+	thumbURL="thumbs/1022_醫學週_0012.JPG"
+	linkURL="images/1022_醫學週_0012.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0013.JPG"
+	thumbURL="thumbs/1022_醫學週_0013.JPG"
+	linkURL="images/1022_醫學週_0013.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1022_醫學週_0014.JPG"
+	thumbURL="thumbs/1022_醫學週_0014.JPG"
+	linkURL="images/1022_醫學週_0014.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1022_醫學週_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

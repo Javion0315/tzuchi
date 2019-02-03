@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+	indexPageName="lifeart.html"
+
+>
+  <image imageURL="images/1011_生活美學1.jpg"
+	thumbURL="thumbs/1011_生活美學1.jpg"
+	linkURL="images/1011_生活美學1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學2.jpg"
+	thumbURL="thumbs/1011_生活美學2.jpg"
+	linkURL="images/1011_生活美學2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學-愛上攝影簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1001.jpg"
+	thumbURL="thumbs/1011_生活美學_1001.jpg"
+	linkURL="images/1011_生活美學_1001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1002.jpg"
+	thumbURL="thumbs/1011_生活美學_1002.jpg"
+	linkURL="images/1011_生活美學_1002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1003.jpg"
+	thumbURL="thumbs/1011_生活美學_1003.jpg"
+	linkURL="images/1011_生活美學_1003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1004.jpg"
+	thumbURL="thumbs/1011_生活美學_1004.jpg"
+	linkURL="images/1011_生活美學_1004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1005.jpg"
+	thumbURL="thumbs/1011_生活美學_1005.jpg"
+	linkURL="images/1011_生活美學_1005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1006.jpg"
+	thumbURL="thumbs/1011_生活美學_1006.jpg"
+	linkURL="images/1011_生活美學_1006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1007.jpg"
+	thumbURL="thumbs/1011_生活美學_1007.jpg"
+	linkURL="images/1011_生活美學_1007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_1008.jpg"
+	thumbURL="thumbs/1011_生活美學_1008.jpg"
+	linkURL="images/1011_生活美學_1008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_1008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學3.jpg"
+	thumbURL="thumbs/1011_生活美學3.jpg"
+	linkURL="images/1011_生活美學3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學-神奇魔術魅惑你心簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2001.jpg"
+	thumbURL="thumbs/1011_生活美學_2001.jpg"
+	linkURL="images/1011_生活美學_2001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2002.jpg"
+	thumbURL="thumbs/1011_生活美學_2002.jpg"
+	linkURL="images/1011_生活美學_2002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2003.jpg"
+	thumbURL="thumbs/1011_生活美學_2003.jpg"
+	linkURL="images/1011_生活美學_2003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2004.jpg"
+	thumbURL="thumbs/1011_生活美學_2004.jpg"
+	linkURL="images/1011_生活美學_2004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2005.jpg"
+	thumbURL="thumbs/1011_生活美學_2005.jpg"
+	linkURL="images/1011_生活美學_2005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2006.jpg"
+	thumbURL="thumbs/1011_生活美學_2006.jpg"
+	linkURL="images/1011_生活美學_2006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2007.jpg"
+	thumbURL="thumbs/1011_生活美學_2007.jpg"
+	linkURL="images/1011_生活美學_2007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_生活美學_2008.jpg"
+	thumbURL="thumbs/1011_生活美學_2008.jpg"
+	linkURL="images/1011_生活美學_2008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_生活美學_2008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

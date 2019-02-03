@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="photo.html"
+
+>
+  <image imageURL="images/1021_學術部攝影.JPG"
+	thumbURL="thumbs/1021_學術部攝影.JPG"
+	linkURL="images/1021_學術部攝影.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_活動簡介.JPG"
+	thumbURL="thumbs/1021_學術部攝影_活動簡介.JPG"
+	linkURL="images/1021_學術部攝影_活動簡介.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_活動簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_ 0001.JPG"
+	thumbURL="thumbs/1021_學術部攝影_ 0001.JPG"
+	linkURL="images/1021_學術部攝影_ 0001.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_ 0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_ 0002.JPG"
+	thumbURL="thumbs/1021_學術部攝影_ 0002.JPG"
+	linkURL="images/1021_學術部攝影_ 0002.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_ 0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_ 0003.JPG"
+	thumbURL="thumbs/1021_學術部攝影_ 0003.JPG"
+	linkURL="images/1021_學術部攝影_ 0003.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_ 0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_ 0004.JPG"
+	thumbURL="thumbs/1021_學術部攝影_ 0004.JPG"
+	linkURL="images/1021_學術部攝影_ 0004.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_ 0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1021_學術部攝影_ 0005.JPG"
+	thumbURL="thumbs/1021_學術部攝影_ 0005.JPG"
+	linkURL="images/1021_學術部攝影_ 0005.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[1021_學術部攝影_ 0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="hand.html"
+
+>
+  <image imageURL="images/hand (1).JPG"
+	thumbURL="thumbs/hand (1).JPG"
+	linkURL="images/hand (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (2).JPG"
+	thumbURL="thumbs/hand (2).JPG"
+	linkURL="images/hand (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (3).JPG"
+	thumbURL="thumbs/hand (3).JPG"
+	linkURL="images/hand (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (4).JPG"
+	thumbURL="thumbs/hand (4).JPG"
+	linkURL="images/hand (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (5).JPG"
+	thumbURL="thumbs/hand (5).JPG"
+	linkURL="images/hand (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (6).JPG"
+	thumbURL="thumbs/hand (6).JPG"
+	linkURL="images/hand (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (7).JPG"
+	thumbURL="thumbs/hand (7).JPG"
+	linkURL="images/hand (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (8).JPG"
+	thumbURL="thumbs/hand (8).JPG"
+	linkURL="images/hand (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (9).JPG"
+	thumbURL="thumbs/hand (9).JPG"
+	linkURL="images/hand (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (10).JPG"
+	thumbURL="thumbs/hand (10).JPG"
+	linkURL="images/hand (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (11).JPG"
+	thumbURL="thumbs/hand (11).JPG"
+	linkURL="images/hand (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (12).JPG"
+	thumbURL="thumbs/hand (12).JPG"
+	linkURL="images/hand (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (13).JPG"
+	thumbURL="thumbs/hand (13).JPG"
+	linkURL="images/hand (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (14).JPG"
+	thumbURL="thumbs/hand (14).JPG"
+	linkURL="images/hand (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (15).JPG"
+	thumbURL="thumbs/hand (15).JPG"
+	linkURL="images/hand (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (16).JPG"
+	thumbURL="thumbs/hand (16).JPG"
+	linkURL="images/hand (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (17).JPG"
+	thumbURL="thumbs/hand (17).JPG"
+	linkURL="images/hand (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (18).JPG"
+	thumbURL="thumbs/hand (18).JPG"
+	linkURL="images/hand (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (19).JPG"
+	thumbURL="thumbs/hand (19).JPG"
+	linkURL="images/hand (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (20).JPG"
+	thumbURL="thumbs/hand (20).JPG"
+	linkURL="images/hand (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hand (21).JPG"
+	thumbURL="thumbs/hand (21).JPG"
+	linkURL="images/hand (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[hand (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

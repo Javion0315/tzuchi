@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="lec.html"
+
+>
+  <image imageURL="images/lec (1).JPG"
+	thumbURL="thumbs/lec (1).JPG"
+	linkURL="images/lec (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (2).JPG"
+	thumbURL="thumbs/lec (2).JPG"
+	linkURL="images/lec (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (3).JPG"
+	thumbURL="thumbs/lec (3).JPG"
+	linkURL="images/lec (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (4).JPG"
+	thumbURL="thumbs/lec (4).JPG"
+	linkURL="images/lec (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (5).JPG"
+	thumbURL="thumbs/lec (5).JPG"
+	linkURL="images/lec (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (6).JPG"
+	thumbURL="thumbs/lec (6).JPG"
+	linkURL="images/lec (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (7).JPG"
+	thumbURL="thumbs/lec (7).JPG"
+	linkURL="images/lec (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (8).JPG"
+	thumbURL="thumbs/lec (8).JPG"
+	linkURL="images/lec (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (9).JPG"
+	thumbURL="thumbs/lec (9).JPG"
+	linkURL="images/lec (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (10).JPG"
+	thumbURL="thumbs/lec (10).JPG"
+	linkURL="images/lec (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lec (11).JPG"
+	thumbURL="thumbs/lec (11).JPG"
+	linkURL="images/lec (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[lec (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="brainrack.html"
+	showAutoPlayButton="true"
+	displayTime="3"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	showNavButtons="true"
+	showInfoButton="false"
+
+>
+  <image imageURL="images/1011_智慧鐵人1.jpg"
+	thumbURL="thumbs/1011_智慧鐵人1.jpg"
+	linkURL="images/1011_智慧鐵人1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人2.jpg"
+	thumbURL="thumbs/1011_智慧鐵人2.jpg"
+	linkURL="images/1011_智慧鐵人2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽簡介]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0001.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0001.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0001.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0002.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0002.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0002.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0003.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0003.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0003.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0004.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0004.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0004.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0005.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0005.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0005.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0006.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0006.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0006.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0007.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0007.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0007.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0008.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0008.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0008.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0009.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0009.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0009.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0010.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0010.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0010.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0011.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0011.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0011.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0012.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0012.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0012.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0013.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0013.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0013.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0014.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0014.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0014.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0015.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0015.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0015.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0016.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0016.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0016.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0017.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0017.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0017.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1011_智慧鐵人競賽_0018.jpg"
+	thumbURL="thumbs/1011_智慧鐵人競賽_0018.jpg"
+	linkURL="images/1011_智慧鐵人競賽_0018.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[1011_智慧鐵人競賽_0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

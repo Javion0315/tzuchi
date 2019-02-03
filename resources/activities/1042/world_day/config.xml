@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="world_day.html"
+
+>
+  <image imageURL="images/world_day (1).JPG"
+	thumbURL="thumbs/world_day (1).JPG"
+	linkURL="images/world_day (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (2).JPG"
+	thumbURL="thumbs/world_day (2).JPG"
+	linkURL="images/world_day (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (3).JPG"
+	thumbURL="thumbs/world_day (3).JPG"
+	linkURL="images/world_day (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (4).JPG"
+	thumbURL="thumbs/world_day (4).JPG"
+	linkURL="images/world_day (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (5).JPG"
+	thumbURL="thumbs/world_day (5).JPG"
+	linkURL="images/world_day (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (6).JPG"
+	thumbURL="thumbs/world_day (6).JPG"
+	linkURL="images/world_day (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (7).JPG"
+	thumbURL="thumbs/world_day (7).JPG"
+	linkURL="images/world_day (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (8).JPG"
+	thumbURL="thumbs/world_day (8).JPG"
+	linkURL="images/world_day (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (9).JPG"
+	thumbURL="thumbs/world_day (9).JPG"
+	linkURL="images/world_day (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (10).JPG"
+	thumbURL="thumbs/world_day (10).JPG"
+	linkURL="images/world_day (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (11).JPG"
+	thumbURL="thumbs/world_day (11).JPG"
+	linkURL="images/world_day (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (12).JPG"
+	thumbURL="thumbs/world_day (12).JPG"
+	linkURL="images/world_day (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (13).JPG"
+	thumbURL="thumbs/world_day (13).JPG"
+	linkURL="images/world_day (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (14).JPG"
+	thumbURL="thumbs/world_day (14).JPG"
+	linkURL="images/world_day (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (15).JPG"
+	thumbURL="thumbs/world_day (15).JPG"
+	linkURL="images/world_day (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (16).JPG"
+	thumbURL="thumbs/world_day (16).JPG"
+	linkURL="images/world_day (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (17).JPG"
+	thumbURL="thumbs/world_day (17).JPG"
+	linkURL="images/world_day (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (18).JPG"
+	thumbURL="thumbs/world_day (18).JPG"
+	linkURL="images/world_day (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (19).JPG"
+	thumbURL="thumbs/world_day (19).JPG"
+	linkURL="images/world_day (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (20).JPG"
+	thumbURL="thumbs/world_day (20).JPG"
+	linkURL="images/world_day (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (21).JPG"
+	thumbURL="thumbs/world_day (21).JPG"
+	linkURL="images/world_day (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (22).JPG"
+	thumbURL="thumbs/world_day (22).JPG"
+	linkURL="images/world_day (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (23).JPG"
+	thumbURL="thumbs/world_day (23).JPG"
+	linkURL="images/world_day (23).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (23)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (24).JPG"
+	thumbURL="thumbs/world_day (24).JPG"
+	linkURL="images/world_day (24).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (24)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (25).JPG"
+	thumbURL="thumbs/world_day (25).JPG"
+	linkURL="images/world_day (25).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (25)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (26).JPG"
+	thumbURL="thumbs/world_day (26).JPG"
+	linkURL="images/world_day (26).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (26)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (27).JPG"
+	thumbURL="thumbs/world_day (27).JPG"
+	linkURL="images/world_day (27).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (27)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (28).JPG"
+	thumbURL="thumbs/world_day (28).JPG"
+	linkURL="images/world_day (28).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (28)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (29).JPG"
+	thumbURL="thumbs/world_day (29).JPG"
+	linkURL="images/world_day (29).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (29)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/world_day (30).JPG"
+	thumbURL="thumbs/world_day (30).JPG"
+	linkURL="images/world_day (30).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[world_day (30)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

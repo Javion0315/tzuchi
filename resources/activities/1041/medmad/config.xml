@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="960"
+	maxImageHeight="720"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showLargeThumbs="false"
+	indexPageName="medmad.html"
+
+>
+  <image imageURL="images/medmad (1).JPG"
+	thumbURL="thumbs/medmad (1).JPG"
+	linkURL="images/medmad (1).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (2).JPG"
+	thumbURL="thumbs/medmad (2).JPG"
+	linkURL="images/medmad (2).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (3).JPG"
+	thumbURL="thumbs/medmad (3).JPG"
+	linkURL="images/medmad (3).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (4).JPG"
+	thumbURL="thumbs/medmad (4).JPG"
+	linkURL="images/medmad (4).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (5).JPG"
+	thumbURL="thumbs/medmad (5).JPG"
+	linkURL="images/medmad (5).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (6).JPG"
+	thumbURL="thumbs/medmad (6).JPG"
+	linkURL="images/medmad (6).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (7).JPG"
+	thumbURL="thumbs/medmad (7).JPG"
+	linkURL="images/medmad (7).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (8).JPG"
+	thumbURL="thumbs/medmad (8).JPG"
+	linkURL="images/medmad (8).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (9).JPG"
+	thumbURL="thumbs/medmad (9).JPG"
+	linkURL="images/medmad (9).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (10).JPG"
+	thumbURL="thumbs/medmad (10).JPG"
+	linkURL="images/medmad (10).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (11).JPG"
+	thumbURL="thumbs/medmad (11).JPG"
+	linkURL="images/medmad (11).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (12).JPG"
+	thumbURL="thumbs/medmad (12).JPG"
+	linkURL="images/medmad (12).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (13).JPG"
+	thumbURL="thumbs/medmad (13).JPG"
+	linkURL="images/medmad (13).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (14).JPG"
+	thumbURL="thumbs/medmad (14).JPG"
+	linkURL="images/medmad (14).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (15).JPG"
+	thumbURL="thumbs/medmad (15).JPG"
+	linkURL="images/medmad (15).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (16).JPG"
+	thumbURL="thumbs/medmad (16).JPG"
+	linkURL="images/medmad (16).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (17).JPG"
+	thumbURL="thumbs/medmad (17).JPG"
+	linkURL="images/medmad (17).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (18).JPG"
+	thumbURL="thumbs/medmad (18).JPG"
+	linkURL="images/medmad (18).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (18)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (19).JPG"
+	thumbURL="thumbs/medmad (19).JPG"
+	linkURL="images/medmad (19).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (19)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (20).JPG"
+	thumbURL="thumbs/medmad (20).JPG"
+	linkURL="images/medmad (20).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (21).JPG"
+	thumbURL="thumbs/medmad (21).JPG"
+	linkURL="images/medmad (21).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (21)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/medmad (22).JPG"
+	thumbURL="thumbs/medmad (22).JPG"
+	linkURL="images/medmad (22).JPG"
+	linkTarget="_blank">
+    <title><![CDATA[medmad (22)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
