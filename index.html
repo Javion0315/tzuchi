@@ -85,8 +85,8 @@
 	<div class="banner">
 		<div class="slider">
 			<div class="slide"><a href="javascript:;"><img src="slides/1071.jpg" width="100%"></a></div>
-			<!-- <div class="slide"><a href="javascript:;"><img src="slides/1061_2.jpg" width="100%"></a></div>
-			<div class="slide"><a href="javascript:;"><img src="slides/advice.jpg" width="100%"></a></div> -->
+			<div class="slide"><a href="javascript:;"><img src="slides/1061_2.jpg" width="100%"></a></div>
+			<div class="slide"><a href="javascript:;"><img src="slides/advice.jpg" width="100%"></a></div>
 		</div>
 	</div>
 	<!-- 靜思語位置 -->
@@ -363,14 +363,14 @@
 				slideMargin: 10
 			});
 
-			// $('.slider2').bxSlider({
-			// 	slideWidth: 980,
-			// 	auto: true,
-			// 	autoControls: false,
-			// 	minSlides: 1,
-			// 	maxSlides: 1,
-			// 	slideMargin: 10
-			// });
+			$('.slider2').bxSlider({
+				slideWidth: 980,
+				auto: true,
+				autoControls: false,
+				minSlides: 1,
+				maxSlides: 1,
+				slideMargin: 10
+			});
 
 			$(".news .news_prev").click(function () {
 				$(".bx-controls-direction .bx-prev").click();
@@ -380,10 +380,10 @@
 				$(".bx-controls-direction .bx-next").click();
 			});
 
-			// var num = new Array();
-			// $(".bx-pager .bx-pager-item").each(function (index) {
-			// 	$(this).find('.bx-pager-link').html('0' + (index + 1));
-			// });
+			var num = new Array();
+			$(".bx-pager .bx-pager-item").each(function (index) {
+				$(this).find('.bx-pager-link').html('0' + (index + 1));
+			});
 		});
 
 		$('.left_item .item_title, .mid .title').on('click', function () {
