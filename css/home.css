@@ -40,3 +40,16 @@
     border-radius: .25em;
     float: right;
 }
+
+.lban:hover {
+    color:blue;
+       animation: shake 1s;
+    cursor: pointer;
+}
+.lban {
+    color: black;
+    font-weight: bold;
+}
+.newsletter {
+    background-color: #e0e0e0;
+}
