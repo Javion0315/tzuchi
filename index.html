@@ -26,9 +26,22 @@
 	<script type='text/javascript' src='js/jquery.bxslider.js'></script>
 	<link href='css/index.css' rel='stylesheet' type='text/css' />
 	<link href='css/home.css' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+	<style>
+		.lban:hover {
+			color:blue;
+   			animation: shake 1s;
+			cursor: pointer;
+		}
+		.lban {
+			color: black;
+			font-weight: bold;
+		}
+	</style>
 </head>
 
 <body>
+		
 	<!-- 符合螢幕尺寸 -->
 	<script type="text/javascript">
 		$(window).resize(function () { $(window).webDisplay(0); });
@@ -82,63 +95,65 @@
 		</div>
 	</div>
 	<!-- 照片輪播 -->
-	<div class="banner">
-		<div class="slider">
-			<div class="slide"><a href="javascript:;"><img src="slides/1071.jpg" width="100%"></a></div>
-			<div class="slide"><a href="javascript:;"><img src="slides/1061_2.jpg" width="100%"></a></div>
-			<div class="slide"><a href="javascript:;"><img src="slides/advice.jpg" width="100%"></a></div>
-		</div>
-	</div>
-	<!-- 靜思語位置 -->
+	<a class="banner">
+		<a class="slider">
+			<div class="slide"><a href="javascript:;"><img src="slides/index2.jpg" width="100%"></a></div>
+			<!-- <a class="slide"><a href="javascript:;"><img src="images/about_us1.JPG" width="100%"></a></a> -->
+			<!-- <div class="slide"><a href="javascript:;"><img src="slides/advice.jpg" width="100%"></a></div> -->
+		</a>
+	</a>
+	<!-- 原靜思語位置 -->
 	<div id="main">
 		<div class="mid_ban">
-			<!-- 第一個靜思語 -->
+			<!-- 第一個 -->
 			<div class="mid_item pic_box fl">
-				<img src="images/about_us1.JPG" style="border-radius:10px;" /><span></span>
+				<img src="images/leaf.jpg" style="border-radius:10px; width:100%" />
 				<div class="item_txt">
 					<div class="txt_title">
-						<span>01</span>
-						<label>證嚴法師靜思語</label>
+						<a class="item_a" href="about/about_us.html" title="About Us">
+							<div class="lban">關於我們</div>
+						</a>
 					</div>
 					<div class="txt_brief">
 						<label>
-							因緣稍縱即逝，<br>
-							把握剎那的心念，<br>
-							恆常盡心盡力去做。
+							了解系學會的<br>
+							組織運作、成員，<br>
+							以及更多有趣的活動。
 						</label>
 					</div>
 				</div>
 			</div>
-			<!-- 第二個靜思語 -->
+			<!-- 第二個 -->
 			<div class="mid_item pic_box fl">
-				<img src="images/about_us1.JPG" style="border-radius:10px" /><span></span>
+				<img src="images/leaf.jpg" style="border-radius:10px; width:100%" />
 				<div class="item_txt">
 					<div class="txt_title">
-						<span>02</span>
-						<label>證嚴法師靜思語</label>
+						<a class="item_a" href="data/index.html" title="resources">
+							<div class="lban">歷屆資料</div>
+						</a>
 					</div>
 					<div class="txt_brief">
 						<label>
-							待人退一步，<br>
-							愛人寬一寸，<br>
-							在人生道中就會活得很快樂。
+							歷年活動成果<br>
+							和會議記錄，<br>
+							從這裡進入
 						</label>
 					</div>
 				</div>
 			</div>
-			<!-- 第三個靜思語 -->
+			<!-- 第三個 -->
 			<div class="mid_item pic_box fl">
-				<img src="images/about_us1.JPG" style="border-radius:10px" /><span></span>
+				<img src="images/leaf.jpg" style="border-radius:10px; width:100%" /><span></span>
 				<div class="item_txt">
 					<div class="txt_title">
-						<span>03</span>
-						<label>證嚴法師靜思語</label>
+						<a href='https://www.youtube.com/watch?v=9spWF57Rd84&list=PLvW_ZFgL6Ez_61_7gxDcRQ-z50CSqrjpi&index=1'>
+							<div class="lban">了解更多</div>
+						</a>
 					</div>
 					<div class="txt_brief">
 						<label>
-							不要封閉自己。<br>
-							你要先去愛別人，<br>
-							別人才會愛你。
+							更多有關慈濟<br>
+							醫學生的生活。<br>
 						</label>
 					</div>
 				</div>
