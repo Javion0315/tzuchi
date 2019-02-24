@@ -29,6 +29,20 @@
 		.page_nav .logo {
 			margin: 10px;
 		}
+		.tablink {
+			text-align: center;
+			background-color: rgba(0,0,0,0.46);
+			border-top-left-radius: 8px;
+			border-top-right-radius: 8px;
+			font-size: 18px;
+			padding: 15px;
+		}
+		.position a {
+			color: white;
+		}
+		.dropbtn {
+			padding-top: 17px;
+		}
 	</style>
 </head>
 
@@ -37,6 +51,7 @@
 		$(window).resize(function () { $(window).webDisplay(0); });
 		$(window).webDisplay(0);
 	</script>
+	<!-- header -->
 	<div id="header" class="absolute">
 		<div class="header_in w">
 			<div class="h_info fr">
@@ -47,7 +62,7 @@
         </div>
         <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-double-up"></i></button>
 	</div>
-
+	<!-- navbar 首頁 關於我們 資料室等按鈕 -->
 	<div class="page_nav ">
 		<div class="w">
 			<h1 class="logo fl pic_box"><a href="../index.html"><img src="../images/logo.png"/><span></span></a></h1>
@@ -72,49 +87,63 @@
 			<div class="clear"></div>
 		</div>
 	</div>
+	<!-- 葉子圖片位置 從 src="圖片放的位置" 更換圖片 -->
 	<div class="in_ad">
 		<div class='bxSlide-outter' style='overflow:hidden;margin-left:auto;margin-right:auto; width:1920px; max-width:100%; max-height:391px'><img
-			 src='../images/advice.jpg' width='100%'></div>
+			 src='../images/inabout_leaf.jpg' width='100%'></div>
 	</div>
+	<!-- tab 切換 -->
 	<div id="main" class="art_outer w">
 		<div class="ueeshop_responsive_position s1">
 			<div class="title">About Us</div>
-                <div class="position">
-                    <a href='about_us.html'>關於我們</a> &gt;
-                    <a href='about_us.html'>歷史沿革</a> |
-                    <a href='about_Constitution.html'>組織章程</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">幹部</a>
-                        <div class="dropdown-content">
-                            <a href="CurrentCadre.html">本屆幹部</a>
-                            <a href="PastCadre.html">歷屆幹部</a>
-                        </div>
-                    </div> |
-                    <a href='Organization.html'>組織架構</a> |
-                    <a href='IFMSA_TCU.html'>國事部</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">系隊介紹</a>
-                        <div class="dropdown-content">
-                            <a href='BBasketball.html'>系男籃</a>
-                            <a href='GBasketball.html'>系女籃</a>
-                            <a href='BVolleyball.html'>系男排</a>
-                            <a href='GVolleyball.html'>系女排</a>
-                            <a href='Gogame.html'>系圍棋</a>
-                            <a href='Tennis.html'>系網</a>
-                            <a href='Badminton.html'>系羽</a>
-                            <a href='Softball.html'>系壘</a>
-                            <a href='Swimteam.html'>系泳</a>
-                            <a href='Soccer.html'>系足</a>
-                            <a href='TTennis.html'>系桌</a>
-                            <a href='Run.html'>系跑</a>
-                        </div>
-                    </div> |
-                    <a href='Mag.html'>《白燈塔》系刊</a> |
-                    <a href='Logo.html'>系服與系徽</a> |
-                    <a href='Miharasi.html' style="color:#2894ff">見晴服務隊</a> |
-                    <a href='https://www.youtube.com/watch?v=9spWF57Rd84&list=PLvW_ZFgL6Ez_61_7gxDcRQ-z50CSqrjpi&index=1'>宣傳影片</a> |
+			<div class="position" style="z-index:1000; margin-top:-52px">
+                <a href='about_us.html' class="tablink" style="color:white">歷史沿革</a>
+                <a href='about_Constitution.html' class="tablink" style="color:white">組織章程</a>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">幹部</a>
+                    <div class="dropdown-content">
+                        <a href="CurrentCadre.html">本屆幹部</a>
+                        <a href="PastCadre.html">歷屆幹部</a>
+                    </div>
                 </div>
+				<a href='Organization.html' class="tablink" style="color:white">組織架構</a>
+                <div class="dropdown">
+					<a type="button" class="dropbtn tablink" style="color:white">國事部</a>
+					<div class="dropdown-content" style="min-width: 150px;">
+						<a href='IFMSA_TCU.html'>認識國事部</a>
+						<a href='score.html'>研究交換委員會</a>
+						<a href='scope.html'>專業交換委員會</a>
+						<a href='scoph.html'>公共衛生委員會</a>
+						<a href='scora.html'>性健康推廣委員會</a>
+						<a href='scorp.html'>人權和平委員會</a>
+						<a href='scome.html'>醫學教育委員會</a>
+						<a href='amsa.html'>亞洲醫學生聯合會</a>
+						<a href='ghlo.html'>全球公衛交換體系</a>
+					</div>
+				</div>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">系隊介紹</a>
+                    <div class="dropdown-content">
+                        <a href='BBasketball.html'>系男籃</a>
+                        <a href='GBasketball.html'>系女籃</a>
+                        <a href='BVolleyball.html'>系男排</a>
+                        <a href='GVolleyball.html'>系女排</a>
+                        <a href='Gogame.html'>系圍棋</a>
+                        <a href='Tennis.html'>系網</a>
+                        <a href='Badminton.html'>系羽</a>
+                        <a href='Softball.html'>系壘</a>
+                        <a href='Swimteam.html'>系泳</a>
+                        <a href='Soccer.html'>系足</a>
+                        <a href='TTennis.html'>系桌</a>
+                        <a href='Run.html'>系跑</a>
+                    </div>
+                </div>
+                <a href='Mag.html' class="tablink" style="color:white">《白燈塔》系刊</a>
+                <a href='Logo.html' class="tablink" style="color:white">系服與系徽</a>
+                <a href='Miharasi.html' class="tablink" style="background-color:white">見晴服務隊</a>
+			</div>
 		</div>
+		<!-- 主要內容 -->
 		<div class="contenter fr">
 			<div class="ueeshop_responsive_article_detail  content-100">
 				<div class="contents">
@@ -131,7 +160,8 @@
                             多年來在萬榮鄉見晴社區，主要服務對象以見晴國小的小學生為主，透過學期中及寒假三、四天的課程及活動，使小朋友能接觸更多元的事物，期待能找到人生的方向。除了透過衛生教育將健康知識帶給社區居民，也藉著與小朋友的深入互動，發現家庭及社區的問題，進而思考解決方法。在民國98年更加入了友系 ── 物理治療系，使得原本有趣的活動變得更加多元。
                             <br><br>
                             讓服務隊能繼續經營下去的不只是同學的熱愛服務的心，小朋友天真無邪的笑容更是讓每次的離別格外不捨，在活動結束大家要離開見晴國小時，小朋友總是會說：「大哥哥、大姊姊你們下次一定還要再來喔！」期待未來哪怕是一點點的改變，只要能讓他們留下美好的童年才是最重要的，就讓我們繼續看見晴天吧！
-                        </div>
+						</div>
+						<!-- 成員介紹 -->
                         <div class="row" style="width:40%; margin-top:35px">
                             <div class="column" style="width:45%">
                                 <div class="card">
@@ -155,7 +185,8 @@
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
                             健康的生活習慣及衛教觀念應從小養成，希望藉由我們在學校中獲得的知識，教導小朋友正確的衛生習慣及疾病觀念。此外也希望小朋友在得到正確的衛生習慣及疾病觀念後，能將這些知識帶回家中，進而影響其家庭及部落。
-                        </div>
+						</div>
+						<!-- 衛生教育圖片 -->
                         <div class="row" style="width:60%; margin-top:35px">
                             <div class="column" style="width:55%">
                                 <div class="card">
@@ -176,7 +207,8 @@
                             帶領小朋友進行特殊教育宣導體驗活動，透過視障、聽障、肢障等體驗活動，讓小朋友能體驗身心障礙者之生活方式，以瞭解身心障礙者之不便，並透過特殊教育宣導體驗活動（如去教養院服務病友），進而學習如何對待身心障礙者並給予適當之協助。
                             <br><br>
                             培養「尊重生命」與「自我省思」之能力，增進小朋友對特殊障礙者之瞭解、同理、接納及融合，進而提升其對特殊障礙者的支持與關懷，營造出友善校園。
-                        </div>
+						</div>
+						<!-- 關懷平等教育圖片 -->
                         <div class="row" style="width:60%; margin-top:35px">
                             <div class="column" style="width:55%">
                                 <div class="card">
@@ -193,7 +225,8 @@
                             古人說「一日之計始於晨」，四天的營期總希望小朋友能帶著滿滿的精神、充沛的體力，健康地來、快樂地回家；因此，凡是出隊的早上都會有營歌教學的時間，在舒展筋骨後方展開一天的行程。
                             <br><br>
                             每年寒假，我們都會挑選時下流行的音樂，配合正向光明的歌詞，編排新一年的早操，並在連續三天的早晨教小朋友們新舞步。多年下來，學習一套新的早操成為我們和小朋友的默契與樂趣。
-                        </div>
+						</div>
+						<!-- 營歌影片 -->
                         <div class="row" style="width:60%; margin-top:35px">
                             <div class="column" style="width:55%">
                                 <div class="card">
@@ -221,7 +254,8 @@
                             <br><br>
                             目前規劃繪本故事內容為「職業面面觀」及「家庭與人際關係的提升」；這兩個主題在過去的出隊中都曾以不同的方式呈現、討論。有鑑於見晴師長反應家庭與人際關係的衝突在見晴社區中十分常見，我們希望可以用一些有趣的方式讓小朋友分享對這個議題認知與感覺，因此規劃繪本閱讀讓小朋友思考並畫下自己的想法，與大哥哥、大姊姊互相討論後，獲得寶貴的知識與經驗，並應用於生活中。
                         </div>
-                    </div>
+					</div>
+					<!-- 繪本製作圖片 -->
                     <div class="row" style="width:80%; margin-top:35px; display:flex; justify-content:space-between">
                         <div style="width:100%; margin-left: 120px;"><img src="../resources/miharasi/artbook_01.jpg"></div>
                         <div style="width:100%; margin-left: 120px;"><img src="../resources/miharasi/artbook_02.jpg"></div>
@@ -242,7 +276,8 @@
 			    </div>
 		    </div>
         </div>
-    <div class="clear"></div>
+	<div class="clear"></div>
+	<!-- 頁尾 -->
 	<div id="footer">
 			<div class="footer w">
 				<div class="footer_top">

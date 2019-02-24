@@ -30,6 +30,20 @@
 		.page_nav .logo {
 			margin: 10px;
 		}
+		.tablink {
+			text-align: center;
+			background-color: rgba(0,0,0,0.46);
+			border-top-left-radius: 8px;
+			border-top-right-radius: 8px;
+			font-size: 18px;
+			padding: 15px;
+		}
+		.position a {
+			color: white;
+		}
+		.dropbtn {
+			padding-top: 17px;
+		}
 	</style>
 </head>
 
@@ -38,6 +52,7 @@
 		$(window).resize(function () { $(window).webDisplay(0); });
 		$(window).webDisplay(0);
 	</script>
+
 	<!-- header -->
 	<div id="header" class="absolute">
 		<div class="header_in w">
@@ -79,23 +94,36 @@
 		<div class='bxSlide-outter' style='overflow:hidden;margin-left:auto;margin-right:auto; width:1920px; max-width:100%; max-height:391px'><img
 			 src='../images/inabout_leaf.jpg' width='100%'></div>
 	</div>
+	<!-- tab 切換 -->
 	<div id="main" class="art_outer w">
 		<div class="ueeshop_responsive_position s1">
-			<div class="position">
-				<a href='about_us.html'>關於我們</a> &gt;
-                <a href='about_us.html' style="color:#2894ff">歷史沿革</a> |
-                <a href='about_Constitution.html'>組織章程</a> |
+			<div class="position" style="z-index:1000; margin-top:-52px">
+                <a href='about_us.html' class="tablink" style="background-color:white">歷史沿革</a>
+                <a href='about_Constitution.html' class="tablink" style="color:white">組織章程</a>
                 <div class="dropdown">
-                    <a type="button" class="dropbtn">幹部</a>
+                    <a type="button" class="dropbtn tablink" style="color:white">幹部</a>
                     <div class="dropdown-content">
                         <a href="CurrentCadre.html">本屆幹部</a>
                         <a href="PastCadre.html">歷屆幹部</a>
                     </div>
-                </div> |
-				<a href='Organization.html'>組織架構</a> |
-                <a href='IFMSA_TCU.html'>國事部</a> |
+                </div>
+				<a href='Organization.html' class="tablink" style="color:white">組織架構</a>
+				<div class="dropdown">
+					<a type="button" class="dropbtn tablink" style="color:white">國事部</a>
+					<div class="dropdown-content" style="min-width: 150px;">
+						<a href='IFMSA_TCU.html'>認識國事部</a>
+						<a href='score.html'>研究交換委員會</a>
+						<a href='scope.html'>專業交換委員會</a>
+						<a href='scoph.html'>公共衛生委員會</a>
+						<a href='scora.html'>性健康推廣委員會</a>
+						<a href='scorp.html'>人權和平委員會</a>
+						<a href='scome.html'>醫學教育委員會</a>
+						<a href='amsa.html'>亞洲醫學生聯合會</a>
+						<a href='ghlo.html'>全球公衛交換體系</a>
+					</div>
+				</div>
                 <div class="dropdown">
-                    <a type="button" class="dropbtn">系隊介紹</a>
+                    <a type="button" class="dropbtn tablink" style="color:white">系隊介紹</a>
                     <div class="dropdown-content">
                         <a href='BBasketball.html'>系男籃</a>
                         <a href='GBasketball.html'>系女籃</a>
@@ -110,12 +138,13 @@
                         <a href='TTennis.html'>系桌</a>
                         <a href='Run.html'>系跑</a>
                     </div>
-                </div> |
-                <a href='Mag.html'>《白燈塔》系刊</a> |
-                <a href='Logo.html'>系服與系徽</a> |
-                <a href='Miharasi.html'>見晴服務隊</a> |
+                </div>
+                <a href='Mag.html' class="tablink" style="color:white">《白燈塔》系刊</a>
+                <a href='Logo.html' class="tablink" style="color:white">系服與系徽</a>
+                <a href='Miharasi.html' class="tablink" style="color:white">見晴服務隊</a>
 			</div>
 		</div>
+		<!-- 主要內容呈現 -->
 		<div class="contenter fr">
 			<div class="ueeshop_responsive_article_detail  content-100">
 				<div class="contents">
@@ -123,9 +152,12 @@
 					<div class="ab_w1200">
 						<div style="margin-left:50px">
 							<div class="ab_0">
+								<!-- 歷史沿革圖片 -->
 								<div class="left"><img alt="" src="images/about_us1.JPG" /></div>
 								<div class="right">
+									<!-- 歷史沿革標題 -->
 									<div class="t1" style="font-size:40px">慈濟大學醫學系系學會歷史沿革</div>
+									<!-- 歷史沿革內容 -->
 									<div class="brief">
 										七星潭的風滾過灘上渾圓飽滿的鵝卵石<br>
 										海岸山脈和中央山脈捧出一片蒼翠遼闊<br>
@@ -145,7 +177,9 @@
 							</div>
 							<div class="ab_0">
 								<div class="right">
+									<!-- 序章標題 -->
 									<div class="t1">序章，邂逅，萌芽心</div>
+									<!-- 序章內容 -->
 									<div class="brief">
 										民國八十三年（1994），證嚴法師本著「無緣大慈，同體大悲」之精神，以「慈悲喜捨」為期許，創辦慈濟醫學院（2000年改制慈濟大學），每屆招生一班50人。民國八十五年（1996）4月17日，慈濟醫學系系學會正式成立。
 										<br><br>
@@ -155,12 +189,16 @@
 										<div class="li">Med95 廖家麟 攝</div>
 									</div>
 								</div>
+								<!-- 序章圖片 -->
 								<div class="left" style="margin-left:60px"><img alt="" src="images/about_us2.JPG" /></div>
 							</div>
 							<div class="ab_0">
-								<div class="left"><img alt="" src="images/about_us3.JPG" /></div>
+								<!-- 文韜武略圖片 -->
+								<div class="left"><img alt="" src="images/about_us3.jpg" /></div>
 								<div class="right">
+									<!-- 文韜武略標題 -->
 									<div class="t1">文韜，武略，系學會</div>
+									<!-- 文韜武略內容 -->
 									<div class="brief">
 										除了課業上的事務，系學會有定期的年度鉅獻和不定期的大小活動，不僅配合台灣醫學生聯合會成立國事部，也有慈醫學生的創意發想。
 										<br><br>
@@ -175,8 +213,8 @@
 
 							</div>
 						</div>
+						<!-- 活力青春內容 -->
 						<div class="ab_1">
-
 							<div class="row" style="float:left; width:50%">
 								<div class="ti" style="margin-left:70px; display:inline-block; float:left">活力，青春，我要成為大醫王</div>
 								<div class="box" style="text-align:left; width:100%">
@@ -193,6 +231,7 @@
 								</div>
 							</div>
 
+							<!-- 慈航法喜濟人間的圖片 -->
 							<div class="row" style="display:inline-block; width:50%">
 								<div class="ti" style="margin-left:24px; display:inline-block;">
 									<img src="images/about_us4.png" alt="" width="300px">
@@ -212,6 +251,8 @@
 		</div>
 		<div class="clear"></div>
 	</div>
+
+	<!-- 頁尾 -->
 	<div id="footer">
 		<div class="footer w">
 			<div class="footer_top">

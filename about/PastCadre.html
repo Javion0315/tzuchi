@@ -28,6 +28,20 @@
 	<style>
 		.page_nav .logo {
 			margin: 10px;
+        }
+        .tablink {
+			text-align: center;
+			background-color: rgba(0,0,0,0.46);
+			border-top-left-radius: 8px;
+			border-top-right-radius: 8px;
+			font-size: 18px;
+			padding: 15px;
+		}
+		.position a {
+			color: white;
+		}
+		.dropbtn {
+			padding-top: 17px;
 		}
 	</style>
 </head>
@@ -36,7 +50,8 @@
 	<script type="text/javascript">
 		$(window).resize(function () { $(window).webDisplay(0); });
 		$(window).webDisplay(0);
-	</script>
+    </script>
+    <!-- header -->
 	<div id="header" class="absolute">
 		<div class="header_in w">
 			<div class="h_info fr">
@@ -47,7 +62,7 @@
         </div>
         <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-double-up"></i></button>
 	</div>
-
+    <!-- navbar 首頁 關於我們 資料室等按鈕 -->
 	<div class="page_nav ">
 		<div class="w">
 			<h1 class="logo fl pic_box"><a href="../index.html"><img src="../images/logo.png"/><span></span></a></h1>
@@ -72,49 +87,63 @@
 			<div class="clear"></div>
 		</div>
 	</div>
+	<!-- 葉子圖片位置 從 src="圖片放的位置" 更換圖片 -->
 	<div class="in_ad">
 		<div class='bxSlide-outter' style='overflow:hidden;margin-left:auto;margin-right:auto; width:1920px; max-width:100%; max-height:391px'><img
-			 src='../images/advice.jpg' width='100%'></div>
-	</div>
+			 src='../images/inabout_leaf.jpg' width='100%'></div>
+    </div>
+    <!-- tab 切換 -->
 	<div id="main" class="art_outer w">
 		<div class="ueeshop_responsive_position s1">
 			<div class="title">About Us</div>
-                <div class="position">
-                    <a href='about_us.html'>關於我們</a> &gt;
-                    <a href='about_us.html'>歷史沿革</a> |
-                    <a href='about_Constitution.html'>組織章程</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn" style="color:#2894ff">幹部</a>
-                        <div class="dropdown-content">
-                            <a href="CurrentCadre.html">本屆幹部</a>
-                            <a href="PastCadre.html">歷屆幹部</a>
-                        </div>
-                    </div> |
-                    <a href='Organization.html'>組織架構</a> |
-                    <a href='IFMSA_TCU.html'>國事部</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">系隊介紹</a>
-                        <div class="dropdown-content">
-                            <a href='BBasketball.html'>系男籃</a>
-                            <a href='GBasketball.html'>系女籃</a>
-                            <a href='BVolleyball.html'>系男排</a>
-                            <a href='GVolleyball.html'>系女排</a>
-                            <a href='Gogame.html'>系圍棋</a>
-                            <a href='Tennis.html'>系網</a>
-                            <a href='Badminton.html'>系羽</a>
-                            <a href='Softball.html'>系壘</a>
-                            <a href='Swimteam.html'>系泳</a>
-                            <a href='Soccer.html'>系足</a>
-                            <a href='TTennis.html'>系桌</a>
-                            <a href='Run.html'>系跑</a>
-                        </div>
-                    </div> |
-                    <a href='Mag.html'>《白燈塔》系刊</a> |
-                    <a href='Logo.html'>系服與系徽</a> |
-                    <a href='Miharasi.html'>見晴服務隊</a> |
-                    <a href='https://www.youtube.com/watch?v=9spWF57Rd84&list=PLvW_ZFgL6Ez_61_7gxDcRQ-z50CSqrjpi&index=1'>宣傳影片</a> |
+            <div class="position" style="z-index:1000; margin-top:-52px">
+                <a href='about_us.html' class="tablink" style="color:white">歷史沿革</a>
+                <a href='about_Constitution.html' class="tablink" style="color:white">組織章程</a>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="background-color:white; padding-bottom:17px;">幹部</a>
+                    <div class="dropdown-content">
+                        <a href="CurrentCadre.html">本屆幹部</a>
+                        <a href="PastCadre.html">歷屆幹部</a>
+                    </div>
                 </div>
-		</div>
+				<a href='Organization.html' class="tablink" style="color:white">組織架構</a>
+                <div class="dropdown">
+					<a type="button" class="dropbtn tablink" style="color:white">國事部</a>
+					<div class="dropdown-content" style="min-width: 150px;">
+						<a href='IFMSA_TCU.html'>認識國事部</a>
+						<a href='score.html'>研究交換委員會</a>
+						<a href='scope.html'>專業交換委員會</a>
+						<a href='scoph.html'>公共衛生委員會</a>
+						<a href='scora.html'>性健康推廣委員會</a>
+						<a href='scorp.html'>人權和平委員會</a>
+						<a href='scome.html'>醫學教育委員會</a>
+						<a href='amsa.html'>亞洲醫學生聯合會</a>
+						<a href='ghlo.html'>全球公衛交換體系</a>
+					</div>
+				</div>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">系隊介紹</a>
+                    <div class="dropdown-content">
+                        <a href='BBasketball.html'>系男籃</a>
+                        <a href='GBasketball.html'>系女籃</a>
+                        <a href='BVolleyball.html'>系男排</a>
+                        <a href='GVolleyball.html'>系女排</a>
+                        <a href='Gogame.html'>系圍棋</a>
+                        <a href='Tennis.html'>系網</a>
+                        <a href='Badminton.html'>系羽</a>
+                        <a href='Softball.html'>系壘</a>
+                        <a href='Swimteam.html'>系泳</a>
+                        <a href='Soccer.html'>系足</a>
+                        <a href='TTennis.html'>系桌</a>
+                        <a href='Run.html'>系跑</a>
+                    </div>
+                </div>
+                <a href='Mag.html' class="tablink" style="color:white">《白燈塔》系刊</a>
+                <a href='Logo.html' class="tablink" style="color:white">系服與系徽</a>
+                <a href='Miharasi.html' class="tablink" style="color:white">見晴服務隊</a>
+			</div>
+        </div>
+        <!-- 主要內容 -->
 		<div class="contenter fr">
 			<div class="ueeshop_responsive_article_detail  content-100">
 				<div class="contents">
@@ -124,7 +153,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第23屆 106學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 106幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/106group.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -190,7 +220,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第22屆 105學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 105幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/105members/105group.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -258,7 +289,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第21屆 104學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 104幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/104group.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -325,7 +357,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第20屆 103學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 103幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/103group.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -393,7 +426,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第19屆 102學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 102幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/102groupphoto.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -436,7 +470,8 @@
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第18屆 101學年系學會幹部</div>
-					<div class="ab_w1200" style="text-align:center">
+                    <!-- 101幹部圖片 -->
+                    <div class="ab_w1200" style="text-align:center">
 						<img alt="" src="../resources/cadre/101groupphoto.jpg" />
                     </div>
                     <div style="display:flex;justify-content:center">
@@ -481,6 +516,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 100幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第17屆 100學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -519,6 +555,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 99幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第16屆 99學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -558,6 +595,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 98幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第15屆 98學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -592,6 +630,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 97幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第14屆 97學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -629,6 +668,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 96幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第13屆 96學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -661,6 +701,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 95幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第12屆 95學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -693,6 +734,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 94幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第11屆 94學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -719,6 +761,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 93幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第10屆 93學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -744,6 +787,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 92幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第9屆 92學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -770,6 +814,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 91幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第8屆 91學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -781,6 +826,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 90幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第7屆 90學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -792,6 +838,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 89幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第6屆 89學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -803,6 +850,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 88幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第5屆 88學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -823,6 +871,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 87幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第4屆 87學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -844,6 +893,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 86幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第3屆 86學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -863,6 +913,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 85幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第2屆 85學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -878,6 +929,7 @@
                     <div style="display:flex; justify-content:center">
                         <hr style="background-color:lightgray; width:60%; margin-top:25px">
                     </div><br>
+                    <!-- 84幹部 -->
                     <div style="font-size:30px; margin-left:80px; margin-bottom:20px; color:#2894ff"><i class="fas fa-users"></i> 第1屆 84學年系學會幹部</div>
                     <div style="display:flex;justify-content:center">
                         <div style="margin-left:45px; font-size:15px; line-height:25px; width:25%; float:left;">
@@ -906,6 +958,7 @@
 		    </div>
     </div>
     <div class="clear"></div>
+    <!-- 頁尾 -->
 	<div id="footer">
 			<div class="footer w">
 				<div class="footer_top">

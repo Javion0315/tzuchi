@@ -29,6 +29,20 @@
 		.page_nav .logo {
 			margin: 10px;
 		}
+        .tablink {
+			text-align: center;
+			background-color: rgba(0,0,0,0.46);
+			border-top-left-radius: 8px;
+			border-top-right-radius: 8px;
+			font-size: 18px;
+			padding: 15px;
+		}
+		.position a {
+			color: white;
+        }
+        .dropbtn {
+			padding-top: 17px;
+		}
 	</style>
 </head>
 
@@ -36,7 +50,8 @@
 	<script type="text/javascript">
 		$(window).resize(function () { $(window).webDisplay(0); });
 		$(window).webDisplay(0);
-	</script>
+    </script>
+    <!-- header -->
 	<div id="header" class="absolute">
 		<div class="header_in w">
 			<div class="h_info fr">
@@ -47,7 +62,7 @@
         </div>
         <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-double-up"></i></button>
 	</div>
-
+    <!-- navbar 首頁 關於我們 資料室等按鈕 -->
 	<div class="page_nav ">
 		<div class="w">
 			<h1 class="logo fl pic_box"><a href="../index.html"><img src="../images/logo.png"/><span></span></a></h1>
@@ -72,49 +87,63 @@
 			<div class="clear"></div>
 		</div>
 	</div>
+	<!-- 葉子圖片位置 從 src="圖片放的位置" 更換圖片 -->
 	<div class="in_ad">
 		<div class='bxSlide-outter' style='overflow:hidden;margin-left:auto;margin-right:auto; width:1920px; max-width:100%; max-height:391px'><img
-			 src='../images/advice.jpg' width='100%'></div>
-	</div>
+			 src='../images/inabout_leaf.jpg' width='100%'></div>
+    </div>
+    <!-- tab 切換 -->
 	<div id="main" class="art_outer w">
 		<div class="ueeshop_responsive_position s1">
 			<div class="title">About Us</div>
-                <div class="position">
-                    <a href='about_us.html'>關於我們</a> &gt;
-                    <a href='about_us.html'>歷史沿革</a> |
-                    <a href='about_Constitution.html'>組織章程</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">幹部</a>
-                        <div class="dropdown-content">
-                            <a href="CurrentCadre.html">本屆幹部</a>
-                            <a href="PastCadre.html">歷屆幹部</a>
-                        </div>
-                    </div> |
-                    <a href='Organization.html'>組織架構</a> |
-                    <a href='IFMSA_TCU.html' style="color:#2894ff">國事部</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">系隊介紹</a>
-                        <div class="dropdown-content">
-                            <a href='BBasketball.html'>系男籃</a>
-                            <a href='GBasketball.html'>系女籃</a>
-                            <a href='BVolleyball.html'>系男排</a>
-                            <a href='GVolleyball.html'>系女排</a>
-                            <a href='Gogame.html'>系圍棋</a>
-                            <a href='Tennis.html'>系網</a>
-                            <a href='Badminton.html'>系羽</a>
-                            <a href='Softball.html'>系壘</a>
-                            <a href='Swimteam.html'>系泳</a>
-                            <a href='Soccer.html'>系足</a>
-                            <a href='TTennis.html'>系桌</a>
-                            <a href='Run.html'>系跑</a>
-                        </div>
-                    </div> |
-                    <a href='Mag.html'>《白燈塔》系刊</a> |
-                    <a href='Logo.html'>系服與系徽</a> |
-                    <a href='Miharasi.html'>見晴服務隊</a> |
-                    <a href='https://www.youtube.com/watch?v=9spWF57Rd84&list=PLvW_ZFgL6Ez_61_7gxDcRQ-z50CSqrjpi&index=1'>宣傳影片</a> |
+            <div class="position" style="z-index:1000; margin-top:-52px">
+                <a href='about_us.html' class="tablink" style="color:white">歷史沿革</a>
+                <a href='about_Constitution.html' class="tablink" style="color:white">組織章程</a>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">幹部</a>
+                    <div class="dropdown-content">
+                        <a href="CurrentCadre.html">本屆幹部</a>
+                        <a href="PastCadre.html">歷屆幹部</a>
+                    </div>
                 </div>
-		</div>
+				<a href='Organization.html' class="tablink" style="color:white">組織架構</a>
+                <div class="dropdown">
+					<a type="button" class="dropbtn tablink" style="background-color:white; padding-bottom:17px;">國事部</a>
+					<div class="dropdown-content" style="min-width: 150px;">
+						<a href='IFMSA_TCU.html'>認識國事部</a>
+						<a href='score.html'>研究交換委員會</a>
+						<a href='scope.html'>專業交換委員會</a>
+						<a href='scoph.html'>公共衛生委員會</a>
+						<a href='scora.html'>性健康推廣委員會</a>
+						<a href='scorp.html'>人權和平委員會</a>
+						<a href='scome.html'>醫學教育委員會</a>
+						<a href='amsa.html'>亞洲醫學生聯合會</a>
+						<a href='ghlo.html'>全球公衛交換體系</a>
+					</div>
+				</div>
+                <div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">系隊介紹</a>
+                    <div class="dropdown-content">
+                        <a href='BBasketball.html'>系男籃</a>
+                        <a href='GBasketball.html'>系女籃</a>
+                        <a href='BVolleyball.html'>系男排</a>
+                        <a href='GVolleyball.html'>系女排</a>
+                        <a href='Gogame.html'>系圍棋</a>
+                        <a href='Tennis.html'>系網</a>
+                        <a href='Badminton.html'>系羽</a>
+                        <a href='Softball.html'>系壘</a>
+                        <a href='Swimteam.html'>系泳</a>
+                        <a href='Soccer.html'>系足</a>
+                        <a href='TTennis.html'>系桌</a>
+                        <a href='Run.html'>系跑</a>
+                    </div>
+                </div>
+                <a href='Mag.html' class="tablink" style="color:white">《白燈塔》系刊</a>
+                <a href='Logo.html' class="tablink" style="color:white">系服與系徽</a>
+                <a href='Miharasi.html' class="tablink" style="color:white">見晴服務隊</a>
+			</div>
+        </div>
+        <!-- 主要內容 -->
 		<div class="contenter fr">
 			<div class="ueeshop_responsive_article_detail  content-100">
 				<div class="contents">
@@ -129,380 +158,30 @@
                                 國事部全名國際事務部，在慈濟醫學系負責推廣IFMSA(醫學生聯合會)在全球舉辦的活動。IFMSA旗下有六個子部門，分別是SCORE(研究交換部)、SCOPE(專業交換部)、SCOPH(公共衛生部)、SCORA(性健康推廣部)、SCORP(人權與和平部)、SCOME(醫學教育部)；另外AMSA(亞洲醫學生聯合會)的相關事務也是由國事部統籌。<br><br>
                                 每個部門都有駐校代表在慈濟大學，他們會與醫聯會中央幹部定期開會，每學期舉辦各種活動來關心各式議題，並提供醫學生出國交換的機會。透過國事部，醫學生們有更多的機會可以熟悉最新時事，並能經常與國外醫學生交流，是醫學生必定要參加的部門!
                         </div>
+                        <!-- 國事圖片 -->
                         <div class="row" style="width:40%">
                             <div class="column" style="width:45%">
                                 <div class="card">
-                                    <img src="../resources/exchange/107members/leader.jpg">
-                                    <div class="container">
+                                    <img src="../resources/exchange/logo.png">
+                                    <!-- <img src="../resources/exchange/107members/leader.jpg"> -->
+                                    <!-- <div class="container">
                                         <p>國事長：<br>
                                                 Med104曾昶深<br>
                                                 Med104徐柏廷<br>
                                         </p>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="clear" style="margin-bottom:30px"></div>
+                    <!-- 相關連結 -->
                     <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="https://www.facebook.com/tcumed.ifmsa/" class="link1" target="_blank">慈醫國事部粉絲專頁</a>&nbsp;|&nbsp;<a href="https://www.fmstw.org/" class="link1" target="_blank">國事部-醫聯會官網</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/FMS.Taiwan/?fref=ts" class="link1" target="_blank">醫聯會粉絲專頁</a></p>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/cadre/107members/group photo of IFMSA.jpg">
-                        </div>
-                        <div class="row" style="width:40%">
-                            <div class="column" style="width:45%">
-                                <img src="../resources/exchange/logo.png">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCORE 研究交換委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee on Research Exchange)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/score.jpg"><br>
-                            研究交換委員會屬於世界醫學生聯合會(IFMSA)的六個常設委員會之一，提供各國醫學生國際間研究交換的機會。研究交換主要包括兩個方面：一是基礎醫學研究方面，另一是臨床研究方面。交換的時間以一到兩個月為主，或是為期更長。而研究交換的對象，主要是修習過特定基礎醫學科目的醫學生。
-                            <br><br>
-                            而各個學校代表(LORE)就是在處理可以出國交換或是來我們學校交換的學生的大大小小的事情。
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCORE.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106王睿筳<br>
-                                            MED106易烈瑜<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">甄選 Outgoing:</b><br>
-                            <p>由於我們學校每天可以出國交換的名額都有限，所以會先在校內舉辦一次甄選會，包括備審資料和面試，選出來之後接下來就要開始為這些符合資格的學長姐們準備一連串出國交換的事情。</p>
-                            <br>
-                            <b style="font-weight:bold">暑假接待 Incoming:</b><br>
-                            <p>有些國外的學生會選擇在暑假7月或是8月的時候來慈濟做研究交換，這個時候我們要做的工作就是去照顧他們的生活起居，例如宿舍、交通，或者是當他們實驗室放假的時候帶他們出去玩。</p>
-                            <br>
-                            <b style="font-weight:bold">甄選下一屆LORE:</b><br>
-                            <p>把這一屆遇到的問題記錄下來，藉由甄選會選出下一屆合適的LORE。</p>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/score" class="link1" target="_blank">醫聯會-SCORE最新消息</a></p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCOPE 專業交換委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee on Professional Exchange)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/scope.jpg"><br>
-                            目前，每年全世界有來自90個國家、八千多位醫學生，透過世界醫學生聯盟的網絡，在全球1000餘所醫學系與教學醫院中進行為期一個月的臨床見習。
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCOPE.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106向敏涵 <br>
-                                            MED106張育誠<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">甄選說明會</b><br>
-                            <p>於每年九月底，向欲出國交換的學長姐講解相關事項，例如：甄選辦法與資格、可選擇的國家、交換費用、合約內容等等。</p>
-                            <br>
-                            <b style="font-weight:bold">甄選會</b><br>
-                            <p>每年十月初，透過評審老師專業的甄選，選出優異的學長姐代表學校參加交換。</p>
-                            <br>
-                            <b style="font-weight:bold">CP(Contact Person)暨LEO(Local Exchange Officer)甄選會</b><br>
-                            <p>每年四月中，會透過當屆LEO選出合適的CP，並從中再選取下屆LEO。</p>
-                            <br>
-                            <b style="font-weight:bold">接待外國交換生</b><br>
-                            <p>每年五月至暑假之間會有為期四週的外國交換生前來，接待他們，並帶領他們體驗東台灣文化與生活。</p>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/score" class="link1" target="_blank">醫聯會-SCORE最新消息</a></p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCOPH 公共衛生委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee on Public Health)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/scoph.jpg"><br>
-                            SCOPH的成立宗旨是提供醫學生公共衛生的相關資訊。SCOPH關注的公共衛生議題，包括全球健康議題、健康醫療相關政策、健康促進、健康教育……等。
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCOPH.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106楊孟樺  <br>
-                                            MED106蔡培元<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">台灣黑熊醫院</b><br>
-                            <p>我們計畫在上下學期所舉辦的台灣黑熊醫院(Taiwanese Black Bear Hospital) 是最主要的在地性的校內活動。台灣黑熊醫院是到幼稚園進行衛教活動，讓小朋友們帶著自己的玩偶來找哥哥姐姐們看病，希望能去除他們對於白袍的恐懼與距離感。另外，我們也透過活動宣導衛生、環保和氣候變遷的觀念，希望讓小朋友從小建立良好的觀念。</p>
-                            <br>
-                            <b style="font-weight:bold">公衛講座</b><br>
-                            <p>上學期10~12月間及下學期3~6月間將會舉辦名師講座，屆時將會邀請該年關注的議題權威蒞校演講，希望能夠帶給慈濟大學的師生們有不一樣的視野及思考方式。上學期我們關注於精神醫學，並藉由犯罪心理學家的演講去探討近年隨機殺人事件的心理因素，讓大家在關注時事之餘對於議題能擁有更深的認識。下學期的議題即將推出，盡請期待。</p>
-                            <br>
-                            <b style="font-weight:bold">世界糖尿病日</b><br>
-                            <p>11/14為世界糖尿病日，屆時我們會舉辦街頭訪視，透過跟民眾的互動宣導糖尿病及相關慢性病的知識，同時進行衛教宣導，期待透過活動的舉辦能讓大眾更加關心自身健康，並展露醫學生關心公共衛生議題的企圖及決心。</p>
-                            <br>
-                            <b style="font-weight:bold">世界地球日</b><br>
-                            <p>下學期的主要活動則有4/22世界地球日， SCOPH會舉辦一系列相關活動，包括環保傳情、義賣、氣候變遷與醫藥衛生的海報展覽等等，希望在推動環保的同時，也讓大家瞭解氣候變遷與健康是密切相關的。</p>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/scoph" class="link1" target="_blank">醫聯會-SCOPH最新消息</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/scoph.tcu.med" class="link1" target="_blank">SCOPHero 慈醫公衛部門粉絲專頁</a></p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCORA 性健康推廣委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee on Sexual & Reproductive Health including HIV/AIDS)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/scora.jpg"><br>
-                            SCORA致力於推動一般學生對生殖健康議題與兩性議題的參與，同時也推行愛滋病與其他性病的防治。
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCORA.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106杜韞智<br>
-                                            MED106林昱誠<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">彩虹計畫</b><br>
-                            <p>一共有兩次，一次為多元性取向的演講，透過講師的分享，讓大家更了解同志的狀況和困境；另一次則是到關愛之家做志工，透過實際與愛滋病患相處、幫忙，讓參與者更深入反思並更了解愛滋病！
-                                <br>透過招募志工，對婦產科醫師、心理諮商師等，進行近距離的採訪以及紀錄，再藉由展覽方式呈現給大家墮胎相關的知識以及趣聞，以期讓大家更注重避孕這個重要的環節！
-                            </p>
-                            <br>
-                            <b style="font-weight:bold">同志大遊行</b><br>
-                            <p>十月底我們會邀請大家一同參加盛大的同志大遊行，表達醫學生對同志的支持的同時、也能看見這些同志們是多麼地有自信、敢於表現自己！</p>
-                            <br>
-                            <b style="font-weight:bold">世界愛滋日</b><br>
-                            <p>11/12月1號是世界愛滋日，我們會舉辦愛滋週的活動，精選出與愛滋議題有關的影片舉辦影展，並進行深入的主題討論，讓大家更了解這方面的知識！</p>
-                            <br>
-                            <b style="font-weight:bold">同儕教育</b><br>
-                            <p>下學期主要是有趣的同儕教育，我們會到國中進行性教育推廣，和他們分享一些小觀念(sex & gender、性別光譜)、如何使用保險套、愛滋病等等，豐富又有意義！</p>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/scora" class="link1" target="_blank">醫聯會-SCORA最新消息</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/FMSTaiwan.SCORA/?fref=ts" class="link1" target="_blank">FMS-Taiwan SCORA粉絲專頁</a></p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCORP 人權和平委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee on Human Rights and Peace)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/scorp.jpg"><br>
-                            顧名思義我們的目標是經由地區性和全球性的合作，對於這個社會的不同族群有著更多的認識、瞭解、關懷，並且在和社會上各種非官方組織合作中，去體會到若是築群們的處境及參與社會。廢話不多說，以下就是我們精彩的活動~
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCORP.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106蘇子軒<br>
-                                            MED106郭芯伶<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">1210話人權，DOCTORS & HUMAN RIGHTS</b><br>
-                            <p>於上學期舉辦，響應世界12/10人權日，舉辨為期一週的人權週，讓全校的同學們更了解人權相關議題(本學期將會推廣原住民菸酒防治)；本學期也會同時結合醫學週，所以也會同時討論和醫生、醫學生有關的人權議題。</p>
-                            <br>
-                            <b style="font-weight:bold">1210話人權，你知多少?</b><br>
-                            <p>於上學期舉辦，每校代表針對特定對象做一個project，形式和主題都十分彈性，有環境權、心理健康人權、醫護人權等，透過座談會、電影欣賞、工作坊……等。105上學期我們即將舉辦偏鄉醫療及教育座談和One Forty移工講座，歡迎大家共襄盛舉。</p>
-                            <br>
-                            <b style="font-weight:bold">1210話人權，你行動了嗎?</b><br>
-                            <p>延續上學期的人權活動，進一步延伸，在下學期將認知化為行動，設計許多不同的動態活動，參訪老人院、快閃行動、人權攝影展…等，一起來關心人權。</p>
-                            <br>
-                            <b style="font-weight:bold">急難救助訓練營</b><br>
-                            <p>大約在五月初，於台大舉辦這為期兩天的研習營，除了了解何謂急難救助，並深入探討其方法與組織架構，最後實際操作演習，令人印象深刻。當然，參加這個營隊，也可以順便與別校醫學生交交朋友唷！</p>
-                            <br>
-                            <b style="font-weight:bold">ACTION亞太醫學生災難會議</b><br>
-                            <p>11/了解災難頻傳的亞洲各國如何應付災難，並認識災難醫學，體驗無國界醫生的生活。ACTION會關注許多最近期的災害議題，並且有機會認識多國的醫學生，是個有教育意義且很特別的經驗。(例如2014高雄不幸發生氣爆公安事故，當年的ACTION就在就以此項重大公安事件做相關的討論)</p>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/scorp" class="link1" target="_blank">醫聯會-SCORP最新消息</a>&nbsp;|&nbsp; <a href="https://www.facebook.com/SCORP.Taiwan/?fref=ts" class="link1" target="_blank">FMS-Taiwan SCORP粉絲專頁</a></p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">SCOME 醫學教育委員會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Standing Committee On Medical Education)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/scome.jpg"><br>
-                            醫學教育是培養未來醫師最重要的過程，他是終身的學習，不只包含學校和見實習教育，也包括了未來的醫師之路。讓醫學生更關注自身的教育，並且投入醫學教育，簡單來說，SCOME是一個有關醫學教育的部門，能由下到上反映醫學生的心聲，作為一個師生間溝通的橋樑!~
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/SCOME.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106游恩 <br>
-                                            MED106吳佩臻<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">年度活動</div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">辯論競賽</b><br>
-                            <p>透過辯論的進行使大家更關注醫學生教育甚至醫生權益的問題，獲得前三名的隊伍有高額獎金，歡迎大家夥們一起關注scome的議題吧!</p>
-                            <br>
-                            <b style="font-weight:bold">醫學生自評</b><br>
-                            <p>每一年中最重要的事情，舉行的時間大約為下學期，大概是3.4.5月附近，最後的報告會上呈給醫學院長、系主任…讓師長了解依學生對課程的意見與回饋!</p>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://www.fmstw.org/net/category/scome" class="link1" target="_blank">醫聯會-SCOME最新消息</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/taiwanmedstudent/" class="link1" target="_blank">SCOME醬料生粉絲專頁</a></p>
-                    
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">AMSA 亞洲醫學生聯合會</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Asian Medical Students’ Association)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/amsa.jpg"><br>
-                            AMSA是由亞洲和大洋洲的醫學生組成的國際性組織。亞醫起源於中印戰爭爆發之際，泰國的醫學生邀請日本的醫學生共同討論泰國邊境的難民問題，之後，隨著周邊國家的醫學生也加入討論，討論的範圍也更加擴展，遂於1985年菲律賓馬尼拉成立AMSA。<br><br>
-                            AMSA的宗旨為知識、行動與友誼，成員國的醫學生透過每年的於7、8月舉辦的AMSC(Asian Medical Students’ Conference)和1、2月舉辦的EAMSC(East Asian Medical Students’ Conference)與他國學生在會議上進行學術探討和文化交流。近年來，AMSA也開始舉辦交換學生計畫，讓醫學生們能有除了參加會議以外的交流機會。
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/AMSA.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106林庭安  <br>
-                                            MED106黃中盈<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"><a href="http://amsataiwan.weebly.com/" class="link1" target="_blank">AMSA-台灣亞洲醫學生聯合會官網</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/amsataiwan" class="link1" target="_blank">AMSA 粉絲專頁</a> </p>
-
-                    <div class="clear" style="margin-bottom:40px"></div>
-                    <div style="text-align:center; font-size:42px; line-height:42px; height:45px;">GHLO 全球公衛交換體系</div>
-                    <div style="text-align:center; font-size:25px; line-height:30px; height:30px;">(Global Health Learning Opportunity)</div>
-                    <div style="display:flex; justify-content:center">
-                        <hr style="background-color:lightgray; width:60%; margin-top:25px">
-                    </div><br>
-                    <div style="display:flex;justify-content:center">
-                        <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                            <img src="../resources/exchange/GHLO.png"><br>
-                            醫學教育是培養未來醫師最重要的過程，他是終身的學習，不只包含學校和見實習教育，也包括了未來的醫師之路。讓醫學生更關注自身的教育，並且投入醫學教育，簡單來說，SCOME是一個有關醫學教育的部門，能由下到上反映醫學生的心聲，作為一個師生間溝通的橋樑!~
-                        </div>
-                        <div class="row" style="width:40%; margin-top:35px">
-                            <div class="column" style="width:45%">
-                                <div class="card">
-                                    <img src="../resources/exchange/107members/GHLO.jpg">
-                                    <div class="container">
-                                        <p>駐校代表<br>
-                                            MED106謝慕蓁<br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                    <div style="margin-left:120px; font-size:15px; line-height:35px; float:left; width:50%">
-                        <div style="color:burlywood; font-size:30px; font-weight:bold">與醫學生相關的網站： </div>
-                        <div style="margin-left:30px; margin-top:10px" id="aboutAc">
-                            <b style="font-weight:bold">1.美國醫學院學會(AAMC)-學生官網：</b><br>
-                            <p>從入學、成為醫學生，到如何選科、申請住院醫師，皆詳細列舉分類。</p>
-                            <br>
-                            <b style="font-weight:bold">2.美國醫學院學會(AAMC)-FB粉專：</b><br>
-                            <p>定期＊每天發布世界各地不同國家的醫學故事</p>
-                            <br>
-                            <b style="font-weight:bold">3.慈濟醫學系-學生至海外交流實習彙整平台：</b><br>
-                            <p>包含系上補助申請、作業流程，以及歷屆學長姐出國交換心得</p>
-                            <br>
-                            <b style="font-weight:bold">Q: 將來具備臨床技能後，如何搜尋其他國家不同醫院的見習機會？ </b><br>
-                            <p>A: 打學校名稱，後面打上electives：就會出現各學校開放的機會名額，以及申請條件的限制(requirements)。</p>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="clear" style="margin-bottom:30px"></div>
-                    <p style="font-size:18px; margin-left:80px; margin-bottom:20px;"> <a href="https://students-residents.aamc.org/" class="link1" target="_blank">美國醫學院學會(AAMC)-學生官網</a>&nbsp;|&nbsp;<a href="https://www.facebook.com/aamcmedstudent/" class="link1" target="_blank">美國醫學生學會(AMMC)-FB粉專</a>|&nbsp;<a href="http://www.med.tcu.edu.tw/?page_id=207" class="link1" target="_blank">慈濟醫學系-學生至海外交流實習彙整平台</a></p>
-
 			    </div>
 		    </div>
         </div>
     <div class="clear"></div>
+    <!-- 頁尾 -->
 	<div id="footer">
 			<div class="footer w">
 				<div class="footer_top">
