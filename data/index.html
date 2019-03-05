@@ -29,6 +29,20 @@
 		.page_nav .logo {
 			margin: 10px;
 		}
+		.tablink {
+			text-align: center;
+			background-color: rgba(0,0,0,0.46);
+			border-top-left-radius: 8px;
+			border-top-right-radius: 8px;
+			font-size: 18px;
+			padding: 15px;
+		}
+		.position a {
+			color: white;
+		}
+		.dropbtn {
+			padding-top: 17px;
+		}
 	</style>
 </head>
 
@@ -48,6 +62,7 @@
         <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-double-up"></i></button>
 	</div>
 
+	<!-- navbar 首頁 關於我們 資料室等按鈕 -->
 	<div class="page_nav ">
 		<div class="w">
 			<h1 class="logo fl pic_box"><a href="../index.html"><img src="../images/logo.png"/><span></span></a></h1>
@@ -58,7 +73,7 @@
 					</a>
 				</div>
 				<div class="nav_item fl">
-					<a class="item_a" href="../about_us.html" title="About Us">
+					<a class="item_a" href="../about/about_us.html" title="About Us">
 						<span style="font-size:17px">ABOUT US</span><br>關於我們
 					</a>
 				</div>
@@ -72,26 +87,28 @@
 			<div class="clear"></div>
 		</div>
 	</div>
+
+	<!-- 葉子圖片位置 從 src="圖片放的位置" 更換圖片 -->
 	<div class="in_ad">
 		<div class='bxSlide-outter' style='overflow:hidden;margin-left:auto;margin-right:auto; width:1920px; max-width:100%; max-height:391px'><img
-			 src='../images/advice.jpg' width='100%'></div>
+			 src='../images/inabout_leaf.jpg' width='100%'></div>
 	</div>
 	<div id="main" class="art_outer w">
 		<div class="ueeshop_responsive_position s1">
 			<div class="title">About Us</div>
-                <div class="position">
-					<a href='index.html' style="color:#2894ff">資料室</a> &gt;
-                    <a href='Activities.html'>活動回顧</a> |
-                    <a href='Minutes.html'>會議紀錄</a> |
-                    <a href='Finance.html'>經費預算</a> |
-                    <div class="dropdown">
-                        <a type="button" class="dropbtn">學習資源</a>
-                        <div class="dropdown-content" style="width:150px">
-                            <a href="Education.html">醫學教育專區</a>
-                            <a href="Endoscopy.html">內視鏡訓練箱教學</a>
-                        </div>
-                    </div> |
+			<div class="position" style="z-index:1000; margin-top:-52px">
+                <a href='index.html' class="tablink" style="background-color:white">資料室</a>
+                <a href='Activities.html' class="tablink" style="color:white">活動回顧</a>
+				<a href='Minutes.html' class="tablink" style="color:white">會議紀錄</a>
+                <a href='Finance.html' class="tablink" style="color:white">經費預算</a>
+				<div class="dropdown">
+                    <a type="button" class="dropbtn tablink" style="color:white">學習資源</a>
+                    <div class="dropdown-content" style="width:150px">
+                        <a href="Education.html">醫學教育專區</a>
+                        <a href="Endoscopy.html">內視鏡訓練箱教學</a>
+                    </div>
                 </div>
+			</div>
 		</div>
 		<div class="contenter fr">
 			<div class="ueeshop_responsive_article_detail  content-100">
